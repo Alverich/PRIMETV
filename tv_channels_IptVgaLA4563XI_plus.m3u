@@ -36,6 +36,11 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/151
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/152
 #EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY HOME&HEALTH (N)" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY HOME&HEALTH (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/153
+
+#EXTINF:-1 tvg-id="I181.97928.schedulesdirect.org" tvg-name="DISCOVERY_HOME_HEALTH_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="",DISCOVERY_HOME_HEALTH_HD_MX
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181515
+
+
 #EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY SCIENCE
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/155
 #EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY THEATHER (N)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY THEATHER (N)
@@ -60,6 +65,8 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/164
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/165
 #EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  NATIONAL GEOGRAPHIC
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/166
+
+
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="││TV││ INFANTILES",││KIDS HD││INFANTIL BABY TV HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/167
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",││KIDS HD││ CARTOONITO
@@ -82,11 +89,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/175
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/176
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD  (N)" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR HD  (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/177
-#EXTINF:-1 tvg-id="" tvg-name="││ARG││  AMERICA 24 HQ" tvg-logo="https://static.epg.best/ar/America24.ar.png" group-title="││TV││ARGENTINA ",││ARG││  AMERICA 24 HQ
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/178
 
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | MULTIMEDIOS" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | MULTIMEDIOS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/186
 
 #EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  MÉXICO  ▆ ▅ ▄ ▂" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1280px-Flag_of_Mexico.svg.png" group-title="││TV││ MEXICO",▂ ▄ ▅ ▆  MÉXICO  ▆ ▅ ▄ ▂
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244416
@@ -100,18 +103,9 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/213
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││ FORO TV [HD]" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="││TV││ MEXICO", ││MX││ FORO TV [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/214
 
-#EXTINF:-1 tvg-id="" tvg-name="││ARG││  TELEFE HQ" tvg-logo="https://static.epg.best/ar/Telefe.ar.png" group-title="││TV││ARGENTINA ",││ARG││  TELEFE HQ
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/264
-#EXTINF:-1 tvg-id="" tvg-name="││ARG││ ARGENTINA EL TRECE [HQ]" tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="││TV││ARGENTINA ",││ARG││ ARGENTINA EL TRECE [HQ]
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/265
-#EXTINF:-1 tvg-id="" tvg-name="││ARG││  AMERICA 2 HQ" tvg-logo="https://static.americadigital.com.ar/americatv/images/america-tv-junio.png" group-title="││TV││ARGENTINA ",││ARG││  AMERICA 2 HQ
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/266
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS [HD1]" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS [HD1]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/267
-#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TV PUBLICA [HQ]" tvg-logo="https://static.epg.best/ar/TVPublica.ar.png" group-title="││TV││ARGENTINA ",││ARG││ TV PUBLICA [HQ]
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/268
-#EXTINF:-1 tvg-id="" tvg-name="││ARG││  EL NUEVE HD" tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="││TV││ARGENTINA ",││ARG││  EL NUEVE HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/269
+
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││ CANAL 5 HQ" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="││TV││ MEXICO", ││MX││ CANAL 5 HQ
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/270
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││ AZTECA 7 [HD]" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="││TV││ MEXICO", ││MX││ AZTECA 7 [HD]
@@ -131,12 +125,18 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/278
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││AZ CORAZON [HD]" tvg-logo="https://static.epg.best/mx/AzCorazon.mx.png" group-title="││TV││ MEXICO", ││MX││AZ CORAZON [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/279
 
+#EXTINF:-1 tvg-id="" tvg-name="TVN_HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TVN_Panam%C3%A1_%282006-2013%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="",TVN_HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181505
+#EXTINF:-1 tvg-id="" tvg-name="RPC_HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Large.RPCPanama-2017-1.png/revision/latest/scale-to-width-down/220?cb=20210906023841&path-prefix=es" group-title="",RPC_HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181506
+
 #EXTINF:-1 tvg-id="" tvg-name=" ││TIGO SPORT +││  (PAR)  [HD]" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️", ││TIGO SPORT +││  (PAR)  [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/298
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO  | UNIVISION" tvg-logo="https://static.epg.best/us/UnivisionWLII.us.png" group-title="││TV││PUERTO RICO",PUERTO RICO  | UNIVISION
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO  | UNIVISION" tvg-logo="https://static.epg.best/us/UnivisionWLII.us.png" group-title="││TV││UNIVISIÓN RICO",PUERTO RICO  | UNIVISION
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/319
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 1
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/320
 #EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 2" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 2
@@ -167,6 +167,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/334
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/335
 #EXTINF:-1 tvg-id="" tvg-name="CINE  CINEMAX FHD (N)" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="││TV││ CINE LATINO FHD",CINE  CINEMAX FHD (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/336
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | FX (n)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="││TV││ CINE LATINO FHD",CINE FULL HD | FX (n)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/337
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD (SAT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ CINE LATINO FHD",STAR CHANNEL FHD (SAT)
@@ -222,12 +223,10 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/409
 #EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││  HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="││TV││CULTURA",││CULT FHD││  HGTV
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/410
 
-#EXTINF:-1 tvg-id="" tvg-name="URUGUAY  | TNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/1024x1024.png/90px-1024x1024.png" group-title="││TV││ URUGUAY ",URUGUAY  | TNU
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/421
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | ACCION (N)" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | ACCION (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/429
-#EXTINF:-1 tvg-id="" tvg-name="││KIDS││CANAL INFANTIL" tvg-logo="data:image/png;base64,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" group-title="││TV││ INFANTILES",││KIDS││CANAL INFANTIL
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││CANAL INFANTIL" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-kidz-Logo.png" group-title="││TV││ INFANTILES",││KIDS││CANAL INFANTIL
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/430
 #EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | ROMANCES" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | ROMANCES
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/431
@@ -262,11 +261,12 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/447
 #EXTINF:-1 tvg-id="" tvg-name="││SPORTS HD││MOVISTAR PLUS (N)" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││SPORTS HD││MOVISTAR PLUS (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/451
 
-#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | VTV PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/1200px-VTV%2BUruguay.svg.png" group-title="││TV││⛹️ DEPORTE URUGUAY ⛹️",URUGUAY HD | VTV PLUS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/501
-
 #EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT 1││  (PAR) [SD]" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT 1││  (PAR) [SD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/509
+
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT││ (GUA)  [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT││ (GUA)  [HD]
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/620
+
 
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││UNICABLE  [HD]" tvg-logo="https://static.epg.best/mx/Unicable.mx.png" group-title="││TV││ MEXICO", ││MX││UNICABLE  [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/534
@@ -279,14 +279,8 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/537
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││AZTECA 7 [HD]" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="││TV││ MEXICO", ││MX││AZTECA 7 [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/538
 
-#EXTINF:-1 tvg-id="" tvg-name="││COL││  RCN NOVELA HD" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="││TV││ COLOMBIA (LOCAL)",││COL││  RCN NOVELA HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/558
-
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││LAS ESTRELLAS INTERNACIONAL (N)" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="││TV││ MEXICO", ││MX││LAS ESTRELLAS INTERNACIONAL (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/576
-
-#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT││ (GUA)  [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT││ (GUA)  [HD]
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/620
 #EXTINF:-1 tvg-id="" tvg-name="││MX││CANAL 10 CANCUN" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg?1587752857" group-title="││TV││ MEXICO",││MX││CANAL 10 CANCUN
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/623
 #EXTINF:-1 tvg-id="" tvg-name="││MX││ CANAL 6 NACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="││TV││ MEXICO",││MX││ CANAL 6 NACIONAL
@@ -366,8 +360,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/843
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/847
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││DARK FHD" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││DARK FHD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/850
-#EXTINF:-1 tvg-id="" tvg-name="││LATIN US││ UNIVISION  41 NEW YORK" tvg-logo="https://static.epg.best/us/UnivisionEast.us.png" group-title="││TV││USA LATINO",││LATIN US││ UNIVISION  41 NEW YORK
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1297
+
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ VIAJAR SD" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ VIAJAR SD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1362
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES  DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES  DRAGON BALL Z
@@ -501,244 +494,19 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/76882
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/80745
 #EXTINF:-1 tvg-id="" tvg-name="CANAL D DRAMA  FHD (N)" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-drama-tr.png" group-title="││TV││ CINE LATINO FHD",CANAL D DRAMA  FHD (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/83954
-#EXTINF:-1 tvg-id="" tvg-name="ENLACE TV " tvg-logo="" group-title="││TV││ RELIGION",ENLACE TV 
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/154095
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PUERTO RICO" tvg-logo="http://fanc.tmsimg.com/assets/s10239_ll_h3_ab.png" group-title="││TV││PUERTO RICO",TELEMUNDO PUERTO RICO
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/218328
-#EXTINF:-1 tvg-id="" tvg-name="|US| HGTV HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| HGTV HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220115
-#EXTINF:-1 tvg-id="" tvg-name="|US| TLC HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| TLC HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220116
-#EXTINF:-1 tvg-id="" tvg-name="|US| HALLMARK CHANNEL HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| HALLMARK CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220117
-#EXTINF:-1 tvg-id="" tvg-name="|US| A AND E FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| A AND E FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220118
-#EXTINF:-1 tvg-id="" tvg-name="|US| BET EAST HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| BET EAST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220119
-#EXTINF:-1 tvg-id="" tvg-name="|US| FREEFORM HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| FREEFORM HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220121
-#EXTINF:-1 tvg-id="" tvg-name="|US| FOOD NETWORK HD (WEST)" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| FOOD NETWORK HD (WEST)
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220122
-#EXTINF:-1 tvg-id="" tvg-name="|US| FOOD NETWORK HD (EAST)" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| FOOD NETWORK HD (EAST)
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220123
-#EXTINF:-1 tvg-id="" tvg-name="|US| LIFETIME HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| LIFETIME HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220124
-#EXTINF:-1 tvg-id="" tvg-name="|US| COMEDY CENTRAL HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| COMEDY CENTRAL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220125
-#EXTINF:-1 tvg-id="" tvg-name="|US| OPRAH WINFREY NETWORK HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| OPRAH WINFREY NETWORK HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220126
-#EXTINF:-1 tvg-id="" tvg-name="|US| MTV HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| MTV HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220127
-#EXTINF:-1 tvg-id="" tvg-name="|US| COOKING CHANNEL HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| COOKING CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220128
-#EXTINF:-1 tvg-id="" tvg-name="|US| VH1 HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| VH1 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220129
-#EXTINF:-1 tvg-id="" tvg-name="|US| TNT WEST FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| TNT WEST FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220130
-#EXTINF:-1 tvg-id="" tvg-name="|US| CMT HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| CMT HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220131
-#EXTINF:-1 tvg-id="" tvg-name="|US| E! ENTERTAINMENT HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| E! ENTERTAINMENT HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220132
-#EXTINF:-1 tvg-id="" tvg-name="|US| ADULT SWIM HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| ADULT SWIM HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220134
-#EXTINF:-1 tvg-id="" tvg-name="|US| COURT TV FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| COURT TV FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220135
-#EXTINF:-1 tvg-id="" tvg-name="|US| WE TV HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| WE TV HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220136
-#EXTINF:-1 tvg-id="" tvg-name="|US| POP HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| POP HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220138
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWS NATION HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| NEWS NATION HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220141
-#EXTINF:-1 tvg-id="" tvg-name="|US| AMERICAN HEROES CHANNEL HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| AMERICAN HEROES CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220145
-#EXTINF:-1 tvg-id="" tvg-name="|US| THE COWBOY CHANNEL FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| THE COWBOY CHANNEL FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220148
-#EXTINF:-1 tvg-id="" tvg-name="|US| WGN AMERICA FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| WGN AMERICA FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220151
-#EXTINF:-1 tvg-id="" tvg-name="|US| QVC NOW FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| QVC NOW FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220153
-#EXTINF:-1 tvg-id="" tvg-name="|US| QVC 1 FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| QVC 1 FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220154
-#EXTINF:-1 tvg-id="" tvg-name="|US| QVC 2 FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| QVC 2 FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220155
-#EXTINF:-1 tvg-id="" tvg-name="|US| QVC 3 HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| QVC 3 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220156
-#EXTINF:-1 tvg-id="" tvg-name="|US| TASTEMADE FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| TASTEMADE FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220158
-#EXTINF:-1 tvg-id="" tvg-name="|US| REVOLT HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| REVOLT HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220159
-#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVERSAL TV FHD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| UNIVERSAL TV FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220163
-#EXTINF:-1 tvg-id="" tvg-name="|US| GEM SHOPPING HD" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| GEM SHOPPING HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220165
-#EXTINF:-1 tvg-id="" tvg-name="|US| UP TV" tvg-logo="" group-title="││TV││USA| ENTERTAINMENT✦●✦",|US| UP TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220166
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PR SUPERNOVA" tvg-logo="https://static2.wikia.nocookie.net/__cb20120909212739/logopedia/images/3/3a/Telemundo_Puerto_Rico_logo.png" group-title="││TV││PUERTO RICO",TELEMUNDO PR SUPERNOVA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244607
 
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PR {EXCLUSIVO} HD" tvg-logo="https://photos.live-tv-channels.org/tv-logo/telemundo-puerto-rico-1150-w360.webp" group-title="││TV││PUERTO RICO",TELEMUNDO PR {EXCLUSIVO} HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245424
+#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVERSAL TV FHD" tvg-logo="" group-title="││TV││ CINE LATINO HD",|US| UNIVERSAL TV FHD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220163
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS HD" tvg-logo="https://imagenes.noticiasrcn.com/cms/2024/07/15195453/nueva-imagen-de-win-sports.webp?w=1280" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",WIN SPORTS HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245505
 
-#EXTINF:-1 tvg-id="" tvg-name="11 - Repretel" tvg-logo="" group-title="││TV││CANALES 2MB",11 - Repretel
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245747
-#EXTINF:-1 tvg-id="" tvg-name="4 Repretel" tvg-logo="" group-title="││TV││CANALES 2MB",4 Repretel
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245748
-#EXTINF:-1 tvg-id="" tvg-name="6 - Repretel" tvg-logo="" group-title="││TV││CANALES 2MB",6 - Repretel
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245749
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="││TV││CANALES 2MB",ANTV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245750
-#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="││TV││CANALES 2MB",Azcorazon
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245751
-#EXTINF:-1 tvg-id="" tvg-name="C9N" tvg-logo="" group-title="││TV││CANALES 2MB",C9N
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245752
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 - NI" tvg-logo="" group-title="││TV││CANALES 2MB",CANAL 13 - NI
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245753
-#EXTINF:-1 tvg-id="" tvg-name="CDN37 - RD" tvg-logo="" group-title="││TV││CANALES 2MB",CDN37 - RD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245754
-#EXTINF:-1 tvg-id="" tvg-name="CDO BÆsico" tvg-logo="" group-title="││TV││CANALES 2MB",CDO BÆsico
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245755
-#EXTINF:-1 tvg-id="" tvg-name="CDO Premium" tvg-logo="" group-title="││TV││CANALES 2MB",CDO Premium
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245756
-#EXTINF:-1 tvg-id="" tvg-name="CERTV" tvg-logo="" group-title="││TV││CANALES 2MB",CERTV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245757
-#EXTINF:-1 tvg-id="" tvg-name="CableNoticias" tvg-logo="" group-title="││TV││CANALES 2MB",CableNoticias
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245758
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 - GUA" tvg-logo="" group-title="││TV││CANALES 2MB",Canal 11 - GUA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245759
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="" group-title="││TV││CANALES 2MB",Canal 13
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245760
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13-GUA" tvg-logo="" group-title="││TV││CANALES 2MB",Canal 13-GUA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245761
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 - PAN" tvg-logo="" group-title="││TV││CANALES 2MB",Canal 4 - PAN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245762
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 - ESA" tvg-logo="" group-title="││TV││CANALES 2MB",Canal 6 - ESA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245763
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 - GUA" tvg-logo="" group-title="││TV││CANALES 2MB",Canal 7 - GUA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245764
-#EXTINF:-1 tvg-id="" tvg-name="Canal Antigua - GUA" tvg-logo="" group-title="││TV││CANALES 2MB",Canal Antigua - GUA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245765
-#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca - GUA" tvg-logo="" group-title="││TV││CANALES 2MB",Canal Azteca - GUA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245766
-#EXTINF:-1 tvg-id="" tvg-name="Canal RCN" tvg-logo="" group-title="││TV││CANALES 2MB",Canal RCN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245767
-#EXTINF:-1 tvg-id="" tvg-name="Color Vision 9 - RD" tvg-logo="" group-title="││TV││CANALES 2MB",Color Vision 9 - RD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245768
-#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC - HON" tvg-logo="" group-title="││TV││CANALES 2MB",Deportes TVC - HON
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245769
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="" group-title="││TV││CANALES 2MB",Discovery H&H
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245770
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="││TV││CANALES 2MB",Distrito Comedia
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245771
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV" tvg-logo="" group-title="││TV││CANALES 2MB",Ecuador TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245772
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa" tvg-logo="" group-title="││TV││CANALES 2MB",Ecuavisa
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245773
-#EXTINF:-1 tvg-id="" tvg-name="FUTV CR" tvg-logo="" group-title="││TV││CANALES 2MB",FUTV CR
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245774
-#EXTINF:-1 tvg-id="" tvg-name="Gamavisiðn" tvg-logo="" group-title="││TV││CANALES 2MB",Gamavisiðn
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245775
-#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional" tvg-logo="" group-title="││TV││CANALES 2MB",Globo Internacional
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245776
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="" group-title="││TV││CANALES 2MB",Gol TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245777
-#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="" group-title="││TV││CANALES 2MB",Golden Edge
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245778
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="││TV││CANALES 2MB",Golf Channel
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245779
-#EXTINF:-1 tvg-id="" tvg-name="Guatevision - GUA" tvg-logo="" group-title="││TV││CANALES 2MB",Guatevision - GUA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245780
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="││TV││CANALES 2MB",Lifetime
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245781
-#EXTINF:-1 tvg-id="" tvg-name="MASTV - PAN" tvg-logo="" group-title="││TV││CANALES 2MB",MASTV - PAN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245782
-#EXTINF:-1 tvg-id="" tvg-name="Meridiano" tvg-logo="" group-title="││TV││CANALES 2MB",Meridiano
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245783
-#EXTINF:-1 tvg-id="" tvg-name="Movistar TV" tvg-logo="" group-title="││TV││CANALES 2MB",Movistar TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245784
-#EXTINF:-1 tvg-id="" tvg-name="NEXT - PAN" tvg-logo="" group-title="││TV││CANALES 2MB",NEXT - PAN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245785
-#EXTINF:-1 tvg-id="" tvg-name="NPY" tvg-logo="" group-title="││TV││CANALES 2MB",NPY
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245786
-#EXTINF:-1 tvg-id="" tvg-name="Nuestra Tele" tvg-logo="" group-title="││TV││CANALES 2MB",Nuestra Tele
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245787
-#EXTINF:-1 tvg-id="" tvg-name="OROMAR TV" tvg-logo="" group-title="││TV││CANALES 2MB",OROMAR TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245788
-#EXTINF:-1 tvg-id="" tvg-name="ParaguayTV" tvg-logo="" group-title="││TV││CANALES 2MB",ParaguayTV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245789
-#EXTINF:-1 tvg-id="" tvg-name="RTS" tvg-logo="" group-title="││TV││CANALES 2MB",RTS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245790
-#EXTINF:-1 tvg-id="" tvg-name="SERTV - PAN" tvg-logo="" group-title="││TV││CANALES 2MB",SERTV - PAN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245791
-#EXTINF:-1 tvg-id="" tvg-name="SNT" tvg-logo="" group-title="││TV││CANALES 2MB",SNT
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245792
-#EXTINF:-1 tvg-id="" tvg-name="STAR TVE" tvg-logo="" group-title="││TV││CANALES 2MB",STAR TVE
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245793
-#EXTINF:-1 tvg-id="" tvg-name="SURTV" tvg-logo="" group-title="││TV││CANALES 2MB",SURTV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245794
-#EXTINF:-1 tvg-id="" tvg-name="Seæal Colombia" tvg-logo="" group-title="││TV││CANALES 2MB",Seæal Colombia
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245795
-#EXTINF:-1 tvg-id="" tvg-name="TC Televisiðn" tvg-logo="" group-title="││TV││CANALES 2MB",TC Televisiðn
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245796
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="││TV││CANALES 2MB",TLC
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245797
-#EXTINF:-1 tvg-id="" tvg-name="TLT" tvg-logo="" group-title="││TV││CANALES 2MB",TLT
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245798
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="" group-title="││TV││CANALES 2MB",TNT SPORTS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245799
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun SD" tvg-logo="" group-title="││TV││CANALES 2MB",TNT Sports Premiun SD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245800
-#EXTINF:-1 tvg-id="" tvg-name="TV  Max - PAN" tvg-logo="" group-title="││TV││CANALES 2MB",TV  Max - PAN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245801
-#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="" group-title="││TV││CANALES 2MB",TV+
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245802
-#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="││TV││CANALES 2MB",TVE
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245803
-#EXTINF:-1 tvg-id="" tvg-name="TVES" tvg-logo="" group-title="││TV││CANALES 2MB",TVES
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245804
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-logo="" group-title="││TV││CANALES 2MB",Teleamazonas
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245805
-#EXTINF:-1 tvg-id="" tvg-name="Telecafe" tvg-logo="" group-title="││TV││CANALES 2MB",Telecafe
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245806
-#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="" group-title="││TV││CANALES 2MB",Telecaribe
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245807
-#EXTINF:-1 tvg-id="" tvg-name="Telefuturo" tvg-logo="" group-title="││TV││CANALES 2MB",Telefuturo
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245808
-#EXTINF:-1 tvg-id="" tvg-name="TelefØ" tvg-logo="" group-title="││TV││CANALES 2MB",TelefØ
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245809
-#EXTINF:-1 tvg-id="" tvg-name="Teleislas" tvg-logo="" group-title="││TV││CANALES 2MB",Teleislas
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245810
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="││TV││CANALES 2MB",Telemundo
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245811
-#EXTINF:-1 tvg-id="" tvg-name="Telenovelas" tvg-logo="" group-title="││TV││CANALES 2MB",Telenovelas
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245812
-#EXTINF:-1 tvg-id="" tvg-name="Teletrak" tvg-logo="" group-title="││TV││CANALES 2MB",Teletrak
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245813
-#EXTINF:-1 tvg-id="" tvg-name="Televen" tvg-logo="" group-title="││TV││CANALES 2MB",Televen
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245814
-#EXTINF:-1 tvg-id="" tvg-name="Televicentro" tvg-logo="" group-title="││TV││CANALES 2MB",Televicentro
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245815
-#EXTINF:-1 tvg-id="" tvg-name="Trece" tvg-logo="" group-title="││TV││CANALES 2MB",Trece
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245816
-#EXTINF:-1 tvg-id="" tvg-name="Venevisiðn" tvg-logo="" group-title="││TV││CANALES 2MB",Venevisiðn
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245818
-#EXTINF:-1 tvg-id="" tvg-name="Venezolana de Televisiðn" tvg-logo="" group-title="││TV││CANALES 2MB",Venezolana de Televisiðn
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245819
-#EXTINF:-1 tvg-id="" tvg-name="Via X" tvg-logo="" group-title="││TV││CANALES 2MB",Via X
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245820
-#EXTINF:-1 tvg-id="" tvg-name="Via X Esports" tvg-logo="" group-title="││TV││CANALES 2MB",Via X Esports
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245821
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="" group-title="││TV││CANALES 2MB",Win Sports
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245822
-#EXTINF:-1 tvg-id="" tvg-name="Zona Latina" tvg-logo="" group-title="││TV││CANALES 2MB",Zona Latina
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245823
-
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="││TV││ CINE LATINO HD",UNIVERSAL CHANNEL
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245942
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="" group-title="││TV││ ℗ ESPN 4K/SD ℗",ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://themenschonabench.com/wp-content/uploads/2014/05/ESPN-Logo.png" group-title="││TV││ ℗ ESPN 4K/SD ℗",ESPN 1
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/246139
 
 #EXTINF:-1 tvg-id="" tvg-name="INF: ANIMEN ZONA" tvg-logo="" group-title="││TV││ANIMEN",INF: ANIMEN ZONA
@@ -751,8 +519,6 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/246245
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/246246
 #EXTINF:-1 tvg-id="" tvg-name="INF: ANIME STATION" tvg-logo="" group-title="││TV││ANIMEN",INF: ANIME STATION
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/246247
-#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO" tvg-logo="" group-title="││TV││ECUADOR ",CANAL UNO
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/246248
 
 #EXTINF:-1 tvg-id="" tvg-name="PORTAL FOXMIX" tvg-logo="" group-title="││TV││MUSICALES",PORTAL FOXMIX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/246260
@@ -765,13 +531,9 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/246262
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/34159
 #EXTINF:-1 tvg-id="" tvg-name="││ESP││ ATRESERIE  [FHD] " tvg-logo="https://www.lyngsat.com/logo/tv/aa/atreseries-es.svg" group-title="││TV││ CINE ESPAÑA",││ESP││ ATRESERIE  [FHD] 
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/37312
-#EXTINF:-1 tvg-id="" tvg-name="ATB BOLIVIA " tvg-logo="https://ulinkremit.com/wp-content/uploads/2021/03/Bolivia.png" group-title="││TV││ BOLIVIA",ATB BOLIVIA 
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/40873
-#EXTINF:-1 tvg-id="" tvg-name="[COL]  CANAL DOCE " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Sincelejo-en-vivo-Online.png" group-title="││TV││ COLOMBIA (LOCAL)",[COL]  CANAL DOCE 
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/40874
+
 #EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ FX  [HD] (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="││TV││ CINE LATINO HD",││CINE HD││ FX  [HD] (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/40898
-
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIE FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png" group-title="││TV││ CINE LATINO HD",SONY MOVIE FHD 
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/45800
 
@@ -813,6 +575,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/76875
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/76876
 #EXTINF:-1 tvg-id="" tvg-name="TEEN" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="││TV││ PLUTO TV LATINO",TEEN
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/76877
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| UNA CASA DE LOCO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91OoKJ8kzvL.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| UNA CASA DE LOCO
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/79400
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| KICK BUTTOWSKI" tvg-logo="https://images.justwatch.com/poster/244197542/s718/kick-buttowski-suburban-daredevil.%7Bformat%7D" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| KICK BUTTOWSKI
@@ -831,13 +594,12 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/81554
 
 #EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY FAMILY HD" tvg-logo="https://photos.prnewswire.com/prnfull/20151013/276409LOGO" group-title="││TV││CULTURA",DISCOVERY FAMILY HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/92921
-#EXTINF:-1 tvg-id="" tvg-name="││COL││TELEVID HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Tele-VID-en-vivo-Online.png" group-title="││TV││ COLOMBIA (LOCAL)",││COL││TELEVID HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/105486
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIA SD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e9c044f2-3aa1-4fee-94ae-5445d49a988a/delgzci-8a48149c-b3d2-4384-92aa-e37c8f329316.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U5YzA0NGYyLTNhYTEtNGZlZS05NGFlLTU0NDVkNDlhOTg4YVwvZGVsZ3pjaS04YTQ4MTQ5Yy1iM2QyLTQzODQtOTJhYS1lMzdjOGYzMjkzMTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vj5XzqytHKAhgY9rs5faxh_pS49-xEy_Rlp3pbpmE60" group-title="││TV││COMEDIA ",SONY COMEDIA SD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/148280
 #EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-c9798453ec86f37e3ae94460cc96c86d" group-title="││TV││ CINE LATINO HD",DREAMWORKS
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/148282
+
 #EXTINF:-1 tvg-id="" tvg-name="NOVELA 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png" group-title="││TV││ NOVELAS",NOVELA 1 
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/148283
 #EXTINF:-1 tvg-id="" tvg-name="NOVELA 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png" group-title="││TV││ NOVELAS",NOVELA 2 
@@ -848,8 +610,16 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/148285
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/148286
 #EXTINF:-1 tvg-id="" tvg-name="NOVELA 5 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/VixLogoOf2022.png" group-title="││TV││ NOVELAS",NOVELA 5 
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/148287
+#EXTINF:-1 tvg-id="" tvg-name="││COL││  RCN NOVELA HD" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="││TV││ NOVELAS",││COL││  RCN NOVELA HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/558
+#EXTINF:-1 tvg-id="I637.37232.schedulesdirect.org" tvg-name="TLNOVELAS_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1200px-Logo_tlnovelas_feb2019.png" group-title="││TV││ NOVELAS",TLNOVELAS_HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181511
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8_VEU7e_D-aesjc7VkgfSCdW6UF59YdDM8CcwfmQ=s900-c-k-c0x00ffffff-no-rj" group-title="││TV││ NOVELAS",RCN Novelas
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245423
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png" group-title="││TV││ CINE LATINO HD",SONY MOVIE HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/148528
+
 #EXTINF:-1 tvg-id="" tvg-name="CAZAVISION" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",CAZAVISION
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/173187
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA FHD" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",CANAL DECASA FHD
@@ -868,37 +638,34 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/173193
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/173194
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="││TV││ CINE ESPAÑA",AMC HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/173195
+
 #EXTINF:-1 tvg-id="" tvg-name="XTRM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="││TV││ CINE ESPAÑA",XTRM HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/173196
 #EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││TV││ CINE ESPAÑA",M. ESTRENOS 2 HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181412
 #EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││TV││ CINE ESPAÑA",M. ESTRENOS 2 FHD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181413
+
 #EXTINF:-1 tvg-id="" tvg-name="FORO_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/640px-Logo-ForoTV-2020.png" group-title="",FORO_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181504
-#EXTINF:-1 tvg-id="" tvg-name="TVN_HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TVN_Panam%C3%A1_%282006-2013%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="",TVN_HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181505
-#EXTINF:-1 tvg-id="" tvg-name="RPC_HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Large.RPCPanama-2017-1.png/revision/latest/scale-to-width-down/220?cb=20210906023841&path-prefix=es" group-title="",RPC_HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181506
-#EXTINF:-1 tvg-id="" tvg-name="TV_MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png" group-title="",TV_MAX
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181507
-#EXTINF:-1 tvg-id="" tvg-name="TELEMETRO_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="",TELEMETRO_HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181508
 #EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA_HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TFMLA-logo.png" group-title="",TELEFORMULA_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181509
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMETRO_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="",TELEMETRO_HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181508
+
 #EXTINF:-1 tvg-id="I353.14755.zap2it.com" tvg-name="BLOOMBERG_TV" tvg-logo="https://clipground.com/images/bloomberg-tv-logo-png-1.png" group-title="",BLOOMBERG_TV
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181510
-#EXTINF:-1 tvg-id="I637.37232.schedulesdirect.org" tvg-name="TLNOVELAS_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1200px-Logo_tlnovelas_feb2019.png" group-title="",TLNOVELAS_HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181511
 
-#EXTINF:-1 tvg-id="I209.15688.schedulesdirect.org" tvg-name="STAR_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="",STAR_HD
+#EXTINF:-1 tvg-id="I209.15688.schedulesdirect.org" tvg-name="STAR_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="││TV││ CINE LATINO HD",STAR_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181513
-#EXTINF:-1 tvg-id="I181.97928.schedulesdirect.org" tvg-name="DISCOVERY_HOME_HEALTH_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="",DISCOVERY_HOME_HEALTH_HD_MX
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181515
+
+
 #EXTINF:-1 tvg-id="I408.17457.schedulesdirect.org" tvg-name="MAS_CHIC_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/2560px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="",MAS_CHIC_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181516
 #EXTINF:-1 tvg-id="I164.74906.schedulesdirect.org" tvg-name="COMEDY_CENTRAL_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="",COMEDY_CENTRAL_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181517
+
 #EXTINF:-1 tvg-id="I200.55980.schedulesdirect.org" tvg-name="DISTRITO_COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="",DISTRITO_COMEDIA
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181518
 #EXTINF:-1 tvg-id="I430.62161.zap2it.com" tvg-name="HOLA_TV_HD" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/hola-tv-350x183.png?itok=Y_HTr88r" group-title="",HOLA_TV_HD
@@ -907,10 +674,13 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181519
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181520
 #EXTINF:-1 tvg-id="I236.61812.zap2it.com" tvg-name="E_HD_MX" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/E-logo.png?resize=99%2C320" group-title="",E_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181521
+
 #EXTINF:-1 tvg-id="I192.46608.schedulesdirect.org" tvg-name="DISCOVERY_TURBO_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/800px-Discovery_Turbo_logo.svg.png" group-title="",DISCOVERY_TURBO_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181522
+
 #EXTINF:-1 tvg-id="I378.25793.schedulesdirect.org" tvg-name="DISCOVERY_ID_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="",DISCOVERY_ID_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181524
+
 #EXTINF:-1 tvg-id="I35.90898.schedulesdirect.org" tvg-name="ATRES_SERIES_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="",ATRES_SERIES_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181527
 #EXTINF:-1 tvg-id="I642.106709.schedulesdirect.org" tvg-name="TNT_SERIE_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="",TNT_SERIE_HD_MX
@@ -925,46 +695,66 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181532
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181533
 #EXTINF:-1 tvg-id="I245.61514.schedulesdirect.org" tvg-name="GLITZ_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="",GLITZ_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181534
-#EXTINF:-1 tvg-id="I177.96307.schedulesdirect.org" tvg-name="DISCOVERY_HD_MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Discovery_Channel_2009.png/revision/latest?cb=20151004060614&path-prefix=es" group-title="",DISCOVERY_HD_MX
+
+#EXTINF:-1 tvg-id="I177.96307.schedulesdirect.org" tvg-name="DISCOVERY_HD_MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Discovery_Channel_2009.png/revision/latest?cb=20151004060614&path-prefix=es" group-title="││TV││CULTURA",││CULT HD ││ DISCOVERY_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181535
-#EXTINF:-1 tvg-id="I269.57708.zap2it.com" tvg-name="HISTORY_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="",HISTORY_HD_MX
+
+#EXTINF:-1 tvg-id="I269.57708.zap2it.com" tvg-name="HISTORY_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="││TV││CULTURA",││CULT HD ││ HISTORY_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181536
-#EXTINF:-1 tvg-id="I885.88533.schedulesdirect.org" tvg-name="NATIONAL_GEOGRAPHIC_MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="",NATIONAL_GEOGRAPHIC_MX
+
+#EXTINF:-1 tvg-id="I885.88533.schedulesdirect.org" tvg-name="NATIONAL_GEOGRAPHIC_MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="││TV││CULTURA",││CULT HD ││ NATIONAL_GEOGRAPHIC_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181538
-#EXTINF:-1 tvg-id="I190.65940.schedulesdirect.org" tvg-name="DISCOVERY_THEATER_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="",DISCOVERY_THEATER_HD_MX
+
+#EXTINF:-1 tvg-id="I190.65940.schedulesdirect.org" tvg-name="DISCOVERY_THEATER_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="││TV││CULTURA",││CULT HD ││ DISCOVERY_THEATER_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181539
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL_PANET_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="",ANIMAL_PANET_HD_MX
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL_PANET_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="││TV││CULTURA",││CULT HD ││ ANIMAL_PANET_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181540
-#EXTINF:-1 tvg-id="I193.66488.schedulesdirect.org" tvg-name="DISCOVERY_WORLD_HD_MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Discovery_World_Latinoamerica_black.png/revision/latest/scale-to-width-down/1200?cb=20201106211729&path-prefix=es" group-title="",DISCOVERY_WORLD_HD_MX
+
+#EXTINF:-1 tvg-id="I193.66488.schedulesdirect.org" tvg-name="DISCOVERY_WORLD_HD_MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Discovery_World_Latinoamerica_black.png/revision/latest/scale-to-width-down/1200?cb=20201106211729&path-prefix=es" group-title="││TV││CULTURA",││CULT HD ││ DISCOVERY_WORLD_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181541
+
 #EXTINF:-1 tvg-id="I43.90309.schedulesdirect.org" tvg-name="ANTENA_3_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="",ANTENA_3_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181543
 #EXTINF:-1 tvg-id="I247.20286.schedulesdirect.org" tvg-name="ENLACE_MX" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="",ENLACE_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181544
-#EXTINF:-1 tvg-id="I187.89909.schedulesdirect.org" tvg-name="DISCOVERY_KIDS_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="",DISCOVERY_KIDS_HD_MX
+
+#EXTINF:-1 tvg-id="I187.89909.schedulesdirect.org" tvg-name="DISCOVERY_KIDS_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="││TV││ INFANTILES",MX | DISCOVERY_KIDS_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181545
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="NICKELODEON_HD_MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="││TV││ MEXICO",NICKELODEON_HD_MX
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="NICKELODEON_HD_MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="││TV││ INFANTILES",MX | NICKELODEON_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181546
-#EXTINF:-1 tvg-id="I115.101735.schedulesdirect.org" tvg-name="CARTOONETWORK_HD_MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Cartoon_Network_2004.svg/revision/latest/scale-to-width-down/250?cb=20200119125214&path-prefix=es" group-title="││TV││ INFANTILES",CARTOONETWORK_HD_MX
+
+#EXTINF:-1 tvg-id="I115.101735.schedulesdirect.org" tvg-name="CARTOONETWORK_HD_MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Cartoon_Network_2004.svg/revision/latest/scale-to-width-down/250?cb=20200119125214&path-prefix=es" group-title="││TV││ INFANTILES",MX | CARTOONETWORK_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181547
-#EXTINF:-1 tvg-id="I195.19234.schedulesdirect.org" tvg-name="DISNEY_CHANNEL_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="",DISNEY_CHANNEL_HD_MX
+
+#EXTINF:-1 tvg-id="I195.19234.schedulesdirect.org" tvg-name="DISNEY_CHANNEL_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="││TV││ INFANTILES",MX | DISNEY_CHANNEL_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181548
-#EXTINF:-1 tvg-id="I461.60295.schedulesdirect.org" tvg-name="NICK_JR_HD_MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="",NICK_JR_HD_MX
+
+#EXTINF:-1 tvg-id="I461.60295.schedulesdirect.org" tvg-name="NICK_JR_HD_MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="││TV││ INFANTILES",MX | NICK_JR_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181549
-#EXTINF:-1 tvg-id="I196.61311.schedulesdirect.org" tvg-name="DISNEY_JR_HD_MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es" group-title="",DISNEY_JR_HD_MX
+
+#EXTINF:-1 tvg-id="I196.61311.schedulesdirect.org" tvg-name="DISNEY_JR_HD_MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/1200?cb=20210617173806&path-prefix=es" group-title="││TV││ INFANTILES",MX | DISNEY_JR_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181550
-#EXTINF:-1 tvg-id="I119.55719.schedulesdirect.org" tvg-name="CARTOONITO_MX" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="",CARTOONITO_MX
+
+#EXTINF:-1 tvg-id="I119.55719.schedulesdirect.org" tvg-name="CARTOONITO_MX" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",MX | CARTOONITO_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181552
-#EXTINF:-1 tvg-id="" tvg-name="DE_PELICULA_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="",DE_PELICULA_MX
+
+#EXTINF:-1 tvg-id="" tvg-name="DE_PELICULA_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="││TV││ CINE LATINO HD",DE_PELICULA_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181553
-#EXTINF:-1 tvg-id="I607.16298.schedulesdirect.org" tvg-name="GOLDEN_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/2560px-Canal_Golden_logo.svg.png" group-title="",GOLDEN_HD_MX
+
+#EXTINF:-1 tvg-id="I607.16298.schedulesdirect.org" tvg-name="GOLDEN_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/2560px-Canal_Golden_logo.svg.png" group-title="││TV││ CINE LATINO HD",CINE | GOLDEN_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181554
-#EXTINF:-1 tvg-id="I480.106215.schedulesdirect.org" tvg-name="PARAMOUNT_HD_MX" tvg-logo="https://i.pinimg.com/originals/fb/5d/e6/fb5de62198c6a62a477533a293f4c080.png" group-title="",PARAMOUNT_HD_MX
+
+#EXTINF:-1 tvg-id="I480.106215.schedulesdirect.org" tvg-name="PARAMOUNT_HD_MX" tvg-logo="https://i.pinimg.com/originals/fb/5d/e6/fb5de62198c6a62a477533a293f4c080.png" group-title="││TV││ CINE LATINO HD",CINE | PARAMOUNT_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181555
-#EXTINF:-1 tvg-id="I638.80807.schedulesdirect.org" tvg-name="TNT_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/2048px-TNT_Logo_2016.svg.png" group-title="",TNT_HD_MX
+
+#EXTINF:-1 tvg-id="I638.80807.schedulesdirect.org" tvg-name="TNT_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/2048px-TNT_Logo_2016.svg.png" group-title="││TV││ CINE LATINO HD",TNT_HD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181556
+
 #EXTINF:-1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="FILM&ARTS_HD" tvg-logo=" " group-title="││TV││CULTURA",FILM&ARTS_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181562
+
 #EXTINF:-1 tvg-id="" tvg-name="TCM_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="",TCM_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181563
 #EXTINF:-1 tvg-id="" tvg-name="SKY_SPORTS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sky_Sports_2007_logo.svg/2560px-Sky_Sports_2007_logo.svg.png" group-title="",SKY_SPORTS_1
@@ -973,20 +763,16 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181564
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181566
 #EXTINF:-1 tvg-id="" tvg-name="ADRENALINA_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="",ADRENALINA_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181567
-#EXTINF:-1 tvg-id="" tvg-name="GOLF_CHANNEL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="",GOLF_CHANNEL_HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181576
-#EXTINF:-1 tvg-id="" tvg-name="BBC_WORLD_NEWS_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="",BBC_WORLD_NEWS_HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181578
-#EXTINF:-1 tvg-id="" tvg-name="FOX_NEWS_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="",FOX_NEWS_HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181579
-#EXTINF:-1 tvg-id="" tvg-name="WOBI_HD" tvg-logo="https://static.wixstatic.com/media/5aa027_d383b23fb36743e2923c1aaad254de98.png/v1/fill/w_980,h_233,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5aa027_d383b23fb36743e2923c1aaad254de98.png" group-title="",WOBI_HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181580
+
 #EXTINF:-1 tvg-id="" tvg-name="CNN_ESPAÑOL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="",CNN_ESPAÑOL_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181582
+
 #EXTINF:-1 tvg-id="" tvg-name="MTV_LIVE_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/1000px-MTV_Live.svg.png" group-title="",MTV_LIVE_HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181584
-#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png" group-title="",BANDAMAX_HD_MX
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png" group-title="",BANDAMAX_SD_MX
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181586
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PEQUERADIO TV " tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="││TV││ INFANTIL ESPAÑA",PEQUERADIO TV 
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/185273
 #EXTINF:-1 tvg-id="" tvg-name="REINO INFANTIL HD" tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/u7DOoBK.png" group-title="││TV││ INFANTILES",REINO INFANTIL HD
@@ -1027,6 +813,13 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/215331
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/215766
 #EXTINF:-1 tvg-id="" tvg-name="M. COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="││TV││ CINE ESPAÑA",M. COMEDIA HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/216462
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PUERTO RICO" tvg-logo="http://fanc.tmsimg.com/assets/s10239_ll_h3_ab.png" group-title="││TV││ TELEMUNDO",TELEMUNDO PUERTO RICO
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/218328
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PR SUPERNOVA" tvg-logo="https://static2.wikia.nocookie.net/__cb20120909212739/logopedia/images/3/3a/Telemundo_Puerto_Rico_logo.png" group-title="││TV││ TELEMUNDO",TELEMUNDO PR SUPERNOVA
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244607
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PR {EXCLUSIVO} HD" tvg-logo="https://photos.live-tv-channels.org/tv-logo/telemundo-puerto-rico-1150-w360.webp" group-title="││TV││ TELEMUNDO",TELEMUNDO PR {EXCLUSIVO} HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245424
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO USA" tvg-logo="http://fanc.tmsimg.com/assets/s10239_h3_aa.png" group-title="││TV││ TELEMUNDO",TELEMUNDO USA
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/218314
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO ATLANTA" tvg-logo="http://fanc.tmsimg.com/assets/s10239_ll_h3_ab.png" group-title="││TV││ TELEMUNDO",TELEMUNDO ATLANTA
@@ -1144,396 +937,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/219124
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/219125
 #EXTINF:-1 tvg-id="" tvg-name="Costa noroeste en vivo" tvg-logo="" group-title="││TV││  ESPAÑA LOCAL",Costa noroeste en vivo
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/219126
-#EXTINF:-1 tvg-id="" tvg-name="|US| REELZ Famous & Infamous HD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| REELZ Famous & Infamous HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220090
-#EXTINF:-1 tvg-id="" tvg-name="|US| TV ONE HD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| TV ONE HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220091
-#EXTINF:-1 tvg-id="" tvg-name="|US| COMEDY TV FHD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| COMEDY TV FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220092
-#EXTINF:-1 tvg-id="" tvg-name="|US| AMC PLUS HD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| AMC PLUS HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220094
-#EXTINF:-1 tvg-id="" tvg-name="|US| COMET TV HD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| COMET TV HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220099
-#EXTINF:-1 tvg-id="" tvg-name="|US| AXS TV NOW FHD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| AXS TV NOW FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220100
-#EXTINF:-1 tvg-id="" tvg-name="|US| JUSTICE CENTRAL  HD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| JUSTICE CENTRAL  HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220102
-#EXTINF:-1 tvg-id="" tvg-name="|US| SNY HD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| SNY HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220104
-#EXTINF:-1 tvg-id="" tvg-name="|US| MAGNOLIA CHANNEL HD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| MAGNOLIA CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220105
-#EXTINF:-1 tvg-id="" tvg-name="|US| LOCAL NOW HD" tvg-logo="" group-title="││TV││ USA| GENERAL✦●✦",|US| LOCAL NOW HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220106
-#EXTINF:-1 tvg-id="" tvg-name="|US| GAME SHOW NETWORK HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| GAME SHOW NETWORK HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220120
-#EXTINF:-1 tvg-id="" tvg-name="|US| ID INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| ID INVESTIGATION DISCOVERY HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220221
-#EXTINF:-1 tvg-id="" tvg-name="|US| HISTORY CHANNEL HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| HISTORY CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220222
-#EXTINF:-1 tvg-id="" tvg-name="|US| OXYGEN HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| OXYGEN HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220224
-#EXTINF:-1 tvg-id="" tvg-name="|US| PARAMOUNT HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| PARAMOUNT HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220225
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISCOVERY CHANNEL HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| DISCOVERY CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220226
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISCOVERY SCIENCE HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| DISCOVERY SCIENCE HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220227
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISCOVERY FAMILY HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| DISCOVERY FAMILY HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220228
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISCOVERY LIFE HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| DISCOVERY LIFE HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220229
-#EXTINF:-1 tvg-id="" tvg-name="|US| NAT GEO HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| NAT GEO HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220230
-#EXTINF:-1 tvg-id="" tvg-name="|US| ANIMAL PLANET HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| ANIMAL PLANET HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220232
-#EXTINF:-1 tvg-id="" tvg-name="|US| ANIMAL PLANET WEST HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| ANIMAL PLANET WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220233
-#EXTINF:-1 tvg-id="" tvg-name="|US| SMITHSONIAN CHANNEL HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| SMITHSONIAN CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220234
-#EXTINF:-1 tvg-id="" tvg-name="|US| DESTINATION AMERICA HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| DESTINATION AMERICA HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220235
-#EXTINF:-1 tvg-id="" tvg-name="|US| VICELAND FHD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| VICELAND FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220236
-#EXTINF:-1 tvg-id="" tvg-name="|US| CRIME AND INVESTIGATION HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| CRIME AND INVESTIGATION HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220237
-#EXTINF:-1 tvg-id="" tvg-name="|US| TRAVEL CHANNEL FHD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| TRAVEL CHANNEL FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220238
-#EXTINF:-1 tvg-id="" tvg-name="|US| TRAVEL WEST  FHD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| TRAVEL WEST  FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220239
-#EXTINF:-1 tvg-id="" tvg-name="|US| FYI HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| FYI HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220240
-#EXTINF:-1 tvg-id="" tvg-name="|US| OUTDOOR CHANNEL HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| OUTDOOR CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220241
-#EXTINF:-1 tvg-id="" tvg-name="|US| AHC  FHD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| AHC  FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220242
-#EXTINF:-1 tvg-id="" tvg-name="|US| GREAT AMERICAN COUNTRY HD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| GREAT AMERICAN COUNTRY HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220245
-#EXTINF:-1 tvg-id="" tvg-name="|US| OVATION FHD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| OVATION FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220246
-#EXTINF:-1 tvg-id="" tvg-name="|US| PURSUIT CHANNEL FHD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| PURSUIT CHANNEL FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220247
-#EXTINF:-1 tvg-id="" tvg-name="|US| ASPIRE FHD" tvg-logo="" group-title="││TV││USA| DOCUMENTARY✦●✦",|US| ASPIRE FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220250
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦USA| NEWS✦●✦" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",✦●✦USA| NEWS✦●✦
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220425
-#EXTINF:-1 tvg-id="" tvg-name="|US| FOX NEWS HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| FOX NEWS HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220426
-#EXTINF:-1 tvg-id="" tvg-name="|US| CNN FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| CNN FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220427
-#EXTINF:-1 tvg-id="" tvg-name="|US| CNN INTERNATIONAL FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| CNN INTERNATIONAL FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220428
-#EXTINF:-1 tvg-id="" tvg-name="|US| MSNBC FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| MSNBC FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220429
-#EXTINF:-1 tvg-id="" tvg-name="|US| CNBC HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| CNBC HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220430
-#EXTINF:-1 tvg-id="" tvg-name="|US| HLN FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| HLN FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220431
-#EXTINF:-1 tvg-id="" tvg-name="|US| THE WEATHER CHANNEL HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| THE WEATHER CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220432
-#EXTINF:-1 tvg-id="" tvg-name="|US| ABC NEWS LIVE HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| ABC NEWS LIVE HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220433
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWSMAX  FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEWSMAX  FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220434
-#EXTINF:-1 tvg-id="" tvg-name="|US| FOX BUSINESS HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| FOX BUSINESS HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220435
-#EXTINF:-1 tvg-id="" tvg-name="|US| BLOOMBERG HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| BLOOMBERG HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220437
-#EXTINF:-1 tvg-id="" tvg-name="|US| BBC AMERICA HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| BBC AMERICA HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220438
-#EXTINF:-1 tvg-id="" tvg-name="|US| CBS NEWS HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| CBS NEWS HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220439
-#EXTINF:-1 tvg-id="" tvg-name="|US| ONE AMERICAN NEWS NETWORK HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| ONE AMERICAN NEWS NETWORK HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220440
-#EXTINF:-1 tvg-id="" tvg-name="|US| ACCUWEATHER NOW FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| ACCUWEATHER NOW FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220441
-#EXTINF:-1 tvg-id="" tvg-name="|US| CNBC WORLD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| CNBC WORLD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220442
-#EXTINF:-1 tvg-id="" tvg-name="|US| RT NEWS AMERICA" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| RT NEWS AMERICA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220443
-#EXTINF:-1 tvg-id="" tvg-name="|US| DW ENGLISH FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| DW ENGLISH FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220444
-#EXTINF:-1 tvg-id="" tvg-name="|US| CGTN FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| CGTN FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220445
-#EXTINF:-1 tvg-id="" tvg-name="|US| FRANCE 24 HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| FRANCE 24 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220447
-#EXTINF:-1 tvg-id="" tvg-name="|US| WGN 9 HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| WGN 9 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220448
-#EXTINF:-1 tvg-id="" tvg-name="|US| CHEDDAR BUSINESS FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| CHEDDAR BUSINESS FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220449
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWSY HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEWSY HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220450
-#EXTINF:-1 tvg-id="" tvg-name="|US| C-SPAN 1 HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| C-SPAN 1 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220451
-#EXTINF:-1 tvg-id="" tvg-name="|US| C-SPAN 2 HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| C-SPAN 2 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220452
-#EXTINF:-1 tvg-id="" tvg-name="|US| C-SPAN 3 HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| C-SPAN 3 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220453
-#EXTINF:-1 tvg-id="" tvg-name="|US| CNA FHD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| CNA FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220454
-#EXTINF:-1 tvg-id="" tvg-name="|US| THE WEATHER CHANNEL En Español HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| THE WEATHER CHANNEL En Español HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220455
-#EXTINF:-1 tvg-id="" tvg-name="|US| CBC NEWS HD" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| CBC NEWS HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220456
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEW ENGLAND CABLE NEWS" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEW ENGLAND CABLE NEWS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220457
-#EXTINF:-1 tvg-id="" tvg-name="|US| 69 NEWS (WFMZ) PHILADELPHIA" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| 69 NEWS (WFMZ) PHILADELPHIA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220458
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWS 12 BROOKLYN" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEWS 12 BROOKLYN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220459
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWS 12 CONNECTICUT" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEWS 12 CONNECTICUT
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220460
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWS 12 HUDSON VALLEY" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEWS 12 HUDSON VALLEY
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220461
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWS 12 LONG ISLAND" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEWS 12 LONG ISLAND
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220462
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWS 12 NEW JERSEY" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEWS 12 NEW JERSEY
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220463
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWS 12 THE BRONX" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEWS 12 THE BRONX
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220464
-#EXTINF:-1 tvg-id="" tvg-name="|US| NEWS 12 WESTCHESTER" tvg-logo="" group-title="││TV││USA| NEWS✦●✦",|US| NEWS 12 WESTCHESTER
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220465
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦USA| CINEMA✦●✦" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",✦●✦USA| CINEMA✦●✦
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220466
-#EXTINF:-1 tvg-id="" tvg-name="|US| CINEMAX ACTION HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| CINEMAX ACTION HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220467
-#EXTINF:-1 tvg-id="" tvg-name="|US| CINEMAX EAST  FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| CINEMAX EAST  FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220468
-#EXTINF:-1 tvg-id="" tvg-name="|US| CINEMAX MORE MAX FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| CINEMAX MORE MAX FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220469
-#EXTINF:-1 tvg-id="" tvg-name="|US| CINEMAX OUTER MAX HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| CINEMAX OUTER MAX HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220470
-#EXTINF:-1 tvg-id="" tvg-name="|US| CINEMAX THRILLER MAX FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| CINEMAX THRILLER MAX FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220471
-#EXTINF:-1 tvg-id="" tvg-name="|US| CINEMAX 5 HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| CINEMAX 5 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220472
-#EXTINF:-1 tvg-id="" tvg-name="|US| CINEMAX FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| CINEMAX FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220473
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SERIS/TV SHOWS ✦●✦" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",✦●✦ SERIS/TV SHOWS ✦●✦
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220474
-#EXTINF:-1 tvg-id="" tvg-name="|US| AMC FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| AMC FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220475
-#EXTINF:-1 tvg-id="" tvg-name="|US| BET FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| BET FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220476
-#EXTINF:-1 tvg-id="" tvg-name="|US| COZI HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| COZI HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220477
-#EXTINF:-1 tvg-id="" tvg-name="|US| GETTV HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| GETTV HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220478
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦MOVIES✦●✦" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",✦●✦MOVIES✦●✦
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220479
-#EXTINF:-1 tvg-id="" tvg-name="|US| Alter Horror HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| Alter Horror HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220480
-#EXTINF:-1 tvg-id="" tvg-name="|US| 5 STAR MAX FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| 5 STAR MAX FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220481
-#EXTINF:-1 tvg-id="" tvg-name="|US| ACTIONMAX HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| ACTIONMAX HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220482
-#EXTINF:-1 tvg-id="" tvg-name="|US| ACTIONMAX EAST  FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| ACTIONMAX EAST  FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220483
-#EXTINF:-1 tvg-id="" tvg-name="|US| DOVE FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| DOVE FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220484
-#EXTINF:-1 tvg-id="" tvg-name="|US| EPIX FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| EPIX FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220485
-#EXTINF:-1 tvg-id="" tvg-name="|US| EPIX HITS FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| EPIX HITS FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220486
-#EXTINF:-1 tvg-id="" tvg-name="|US| EPIX 2 HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| EPIX 2 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220487
-#EXTINF:-1 tvg-id="" tvg-name="|US| FUSE FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| FUSE FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220488
-#EXTINF:-1 tvg-id="" tvg-name="|US| FX HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| FX HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220489
-#EXTINF:-1 tvg-id="" tvg-name="|US| FX WEST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| FX WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220490
-#EXTINF:-1 tvg-id="" tvg-name="|US| FXM HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| FXM HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220491
-#EXTINF:-1 tvg-id="" tvg-name="|US| FXX HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| FXX HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220492
-#EXTINF:-1 tvg-id="" tvg-name="|US| PARAMOUNT NETWORK HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| PARAMOUNT NETWORK HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220493
-#EXTINF:-1 tvg-id="" tvg-name="|US| HBO FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HBO FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220494
-#EXTINF:-1 tvg-id="" tvg-name="|US| HBO EAST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HBO EAST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220495
-#EXTINF:-1 tvg-id="" tvg-name="|US| HBO WEST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HBO WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220496
-#EXTINF:-1 tvg-id="" tvg-name="|US| HBO 2 FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HBO 2 FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220497
-#EXTINF:-1 tvg-id="" tvg-name="|US| HBO COMEDY FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HBO COMEDY FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220498
-#EXTINF:-1 tvg-id="" tvg-name="|US| HBO FAMILY HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HBO FAMILY HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220499
-#EXTINF:-1 tvg-id="" tvg-name="|US| HBO ZONE EAST FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HBO ZONE EAST FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220500
-#EXTINF:-1 tvg-id="" tvg-name="|US| HBO SIGNATURE EAST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HBO SIGNATURE EAST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220501
-#EXTINF:-1 tvg-id="" tvg-name="|US| HD NET MOVIES FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HD NET MOVIES FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220502
-#EXTINF:-1 tvg-id="" tvg-name="|US| HALLMARK MOVIES & MYSTERIES FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HALLMARK MOVIES & MYSTERIES FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220503
-#EXTINF:-1 tvg-id="" tvg-name="|US| HALLMARK DRAMA HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| HALLMARK DRAMA HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220504
-#EXTINF:-1 tvg-id="" tvg-name="|US| MGM FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| MGM FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220505
-#EXTINF:-1 tvg-id="" tvg-name="|US| MOVIE MAX FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| MOVIE MAX FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220506
-#EXTINF:-1 tvg-id="" tvg-name="|US| MOVIE PLEX HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| MOVIE PLEX HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220507
-#EXTINF:-1 tvg-id="" tvg-name="|US| MORE MAX FHD (WEST)" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| MORE MAX FHD (WEST)
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220508
-#EXTINF:-1 tvg-id="" tvg-name="|US| MORE MAX FHD (EAST)" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| MORE MAX FHD (EAST)
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220509
-#EXTINF:-1 tvg-id="" tvg-name="|US| RETRO PLEX FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| RETRO PLEX FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220510
-#EXTINF:-1 tvg-id="" tvg-name="|US| LIFETIME MOVIE FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| LIFETIME MOVIE FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220511
-#EXTINF:-1 tvg-id="" tvg-name="|US| INDIE PLEX FHD EAST" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| INDIE PLEX FHD EAST
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220512
-#EXTINF:-1 tvg-id="" tvg-name="|US| IFC HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| IFC HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220513
-#EXTINF:-1 tvg-id="" tvg-name="|US| INSP HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| INSP HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220514
-#EXTINF:-1 tvg-id="" tvg-name="|US| SYFY FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SYFY FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220515
-#EXTINF:-1 tvg-id="" tvg-name="|US| SUNDANCE HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SUNDANCE HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220516
-#EXTINF:-1 tvg-id="" tvg-name="|US| SONY MOVIES FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SONY MOVIES FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220517
-#EXTINF:-1 tvg-id="" tvg-name="|US| USA NETWORK FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| USA NETWORK FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220518
-#EXTINF:-1 tvg-id="" tvg-name="|US| USA NETWORK WEST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| USA NETWORK WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220519
-#EXTINF:-1 tvg-id="" tvg-name="|US| TNT FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| TNT FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220520
-#EXTINF:-1 tvg-id="" tvg-name="|US| TBS FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| TBS FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220521
-#EXTINF:-1 tvg-id="" tvg-name="|US| TBS WEST FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| TBS WEST FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220522
-#EXTINF:-1 tvg-id="" tvg-name="|US| THE FILM DETECTIVE HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| THE FILM DETECTIVE HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220523
-#EXTINF:-1 tvg-id="" tvg-name="|US| TV LAND HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| TV LAND HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220524
-#EXTINF:-1 tvg-id="" tvg-name="|US| TCM HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| TCM HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220525
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ CINEMA FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ CINEMA FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220526
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ EAST FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ EAST FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220527
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ WEST FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ WEST FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220528
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ EDGE EAST FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ EDGE EAST FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220529
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ EDGE WEST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ EDGE WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220530
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ COMEDY EAST FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ COMEDY EAST FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220531
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ COMEDY WEST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ COMEDY WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220532
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ ENCORE EAST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ ENCORE EAST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220533
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ ENCORE WEST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ ENCORE WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220534
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ ENCORE BLACK FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ ENCORE BLACK FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220535
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ ENCORE CLASSIC FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ ENCORE CLASSIC FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220536
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ ENCORE FAMILY FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ ENCORE FAMILY FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220537
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ ENCORE ACTION EAST FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ ENCORE ACTION EAST FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220538
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ ENCORE ACTION WEST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| STARZ ENCORE ACTION WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220539
-#EXTINF:-1 tvg-id="" tvg-name="|US| SHOWTIME EAST HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SHOWTIME EAST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220541
-#EXTINF:-1 tvg-id="" tvg-name="|US| SHOWTIME 2 FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SHOWTIME 2 FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220542
-#EXTINF:-1 tvg-id="" tvg-name="|US| SHOWTIME BET FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SHOWTIME BET FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220543
-#EXTINF:-1 tvg-id="" tvg-name="|US| SHOWTIME EXTREME HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SHOWTIME EXTREME HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220544
-#EXTINF:-1 tvg-id="" tvg-name="|US| SHOWTIME FAMILY ZONE FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SHOWTIME FAMILY ZONE FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220545
-#EXTINF:-1 tvg-id="" tvg-name="|US| SHOWTIME WOMEN FHD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SHOWTIME WOMEN FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220546
-#EXTINF:-1 tvg-id="" tvg-name="|US| SHOWTIME NEXT HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SHOWTIME NEXT HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220547
-#EXTINF:-1 tvg-id="" tvg-name="|US| SHOWTIME SHOWCASE FHD EAST" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| SHOWTIME SHOWCASE FHD EAST
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220548
-#EXTINF:-1 tvg-id="" tvg-name="|US| Hallmark Movies & More HD" tvg-logo="" group-title="││TV││USA| CINEMA✦●✦",|US| Hallmark Movies & More HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220551
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦USA| KIDS&FAMLIY✦●✦" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",✦●✦USA| KIDS&FAMLIY✦●✦
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220554
-#EXTINF:-1 tvg-id="" tvg-name="|US| NICK JR FHD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| NICK JR FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220555
-#EXTINF:-1 tvg-id="" tvg-name="|US| NICKELODEON FHD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| NICKELODEON FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220556
-#EXTINF:-1 tvg-id="" tvg-name="|US| NICKTOONS FHD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| NICKTOONS FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220557
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ KIDS & FAMILY (EAST) FHD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| STARZ KIDS & FAMILY (EAST) FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220558
-#EXTINF:-1 tvg-id="" tvg-name="|US| STARZ KIDS AND FAMILY WEST HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| STARZ KIDS AND FAMILY WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220559
-#EXTINF:-1 tvg-id="" tvg-name="|US| TEENNICK HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| TEENNICK HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220560
-#EXTINF:-1 tvg-id="" tvg-name="|US| BABY FIRST FHD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| BABY FIRST FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220561
-#EXTINF:-1 tvg-id="" tvg-name="|US| BABYTV HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| BABYTV HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220562
-#EXTINF:-1 tvg-id="" tvg-name="|US| BOOMERANG HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| BOOMERANG HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220563
-#EXTINF:-1 tvg-id="" tvg-name="|US| CARTOON NETWORK HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| CARTOON NETWORK HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220564
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISNEY CHANNEL HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| DISNEY CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220565
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISNEY CHANNEL (WEST) HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| DISNEY CHANNEL (WEST) HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220566
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISNEY JUNIOR HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| DISNEY JUNIOR HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220567
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISNEY JUNIOR HD (WEST)" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| DISNEY JUNIOR HD (WEST)
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220568
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISNEY XD (EAST) HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| DISNEY XD (EAST) HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220569
-#EXTINF:-1 tvg-id="" tvg-name="|US| DISNEY XD WEST HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| DISNEY XD WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220570
-#EXTINF:-1 tvg-id="" tvg-name="|US| DUCKTV FHD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| DUCKTV FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220571
-#EXTINF:-1 tvg-id="" tvg-name="|US| HBO FAMILY EAST HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| HBO FAMILY EAST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220572
-#EXTINF:-1 tvg-id="" tvg-name="|US| PBS KIDS HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| PBS KIDS HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220573
-#EXTINF:-1 tvg-id="" tvg-name="|US| PBS SOCAL KIDS WEST HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| PBS SOCAL KIDS WEST HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220574
-#EXTINF:-1 tvg-id="" tvg-name="|US| 3ABN KIDS TV HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| 3ABN KIDS TV HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220575
-#EXTINF:-1 tvg-id="" tvg-name="|US| UNIVERSAL KIDS HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| UNIVERSAL KIDS HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220576
-#EXTINF:-1 tvg-id="" tvg-name="|US| Kids TV HD" tvg-logo="" group-title="││TV││USA| KIDS&FAMLIY✦●✦",|US| Kids TV HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220577
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  FOX NEWS" tvg-logo="" group-title="",|US| 4K  FOX NEWS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220771
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  ESPN" tvg-logo="" group-title="",|US| 4K  ESPN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220772
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  BET" tvg-logo="" group-title="",|US| 4K  BET
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220775
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  TNT" tvg-logo="" group-title="",|US| 4K  TNT
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220776
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  CNN" tvg-logo="" group-title="",|US| 4K  CNN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220777
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  TBS" tvg-logo="" group-title="",|US| 4K  TBS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220778
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  NBC" tvg-logo="" group-title="",|US| 4K  NBC
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220779
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  AMC" tvg-logo="" group-title="",|US| 4K  AMC
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220780
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  CBS" tvg-logo="" group-title="",|US| 4K  CBS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220781
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  CINEMAX" tvg-logo="" group-title="",|US| 4K  CINEMAX
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220782
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  DISCOVERY CHANNEL" tvg-logo="" group-title="",|US| 4K  DISCOVERY CHANNEL
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220783
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  NBA TV" tvg-logo="" group-title="",|US| 4K  NBA TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220784
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  NHL NETWORK" tvg-logo="" group-title="",|US| 4K  NHL NETWORK
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220785
-#EXTINF:-1 tvg-id="" tvg-name="|US| 4K  CBS SPORTS NETWORK" tvg-logo="" group-title="",|US| 4K  CBS SPORTS NETWORK
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220786
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: Cuarto Milenio HD 24H" tvg-logo="http://swedtv.net:8080/images/bbdd85bc2dbc44b746cd1cfa520d4303.png" group-title="",ES: Cuarto Milenio HD 24H
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220824
 #EXTINF:-1 tvg-id="" tvg-name="ES: El Show de los Looney Tunes 24H" tvg-logo="https://e7.pngegg.com/pngimages/112/686/png-clipart-wile-e-coyote-and-the-road-runner-television-show-looney-tunes-foghorn-leghorn-road-runner-wile-e-coyote-and-the-road-runner-television-show-thumbnail.png" group-title="",ES: El Show de los Looney Tunes 24H
@@ -1621,101 +1025,6 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/221836
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/224389
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || XXX BIAGASS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || XXX BIAGASS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1326
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||PENTHOUSE QUICKIES" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||PENTHOUSE QUICKIES
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1311
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || XY PLUS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || XY PLUS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1312
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || DORCEL" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || DORCEL
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1313
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || XXL (18+)" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || XXL (18+)
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1316
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || PENTHOUSE GOLD" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || PENTHOUSE GOLD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1317
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||SEX ATION" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||SEX ATION
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1319
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || Russian Night" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || Russian Night
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1320
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||BLUE HUSTLER" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||BLUE HUSTLER
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1321
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || CENT & CENTO" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || CENT & CENTO
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1322
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || PRIVATE TV (18+)" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || PRIVATE TV (18+)
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1323
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||PLAYBOY TV (N)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/playboy_tv_lam.png" group-title="││TV││ XXX ", ||PORN ||PLAYBOY TV (N)
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1325
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || HUSTLER (18+)" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || HUSTLER (18+)
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1324
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||SUPER ON" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||SUPER ON
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1328
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || VENUS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || VENUS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1327
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||BABE STATION 24" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||BABE STATION 24
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1329
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || VISIT X TV" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || VISIT X TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1330
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||VISIT X TV HD" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||VISIT X TV HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1331
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||JASMIN TV" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||JASMIN TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1332
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV BIG ASS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV BIG ASS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1334
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV BIG DICK" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV BIG DICK
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1335
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV BIG TITS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV BIG TITS
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1336
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV CUCKOLD" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV CUCKOLD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1341
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV GANGBAND" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV GANGBAND
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1343
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || ADULT IPTV INTERRACIAL" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || ADULT IPTV INTERRACIAL
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1346
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || ADULT IPTV MILF" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || ADULT IPTV MILF
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1350
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV ROUGH" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV ROUGH
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1353
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV TEEN" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV TEEN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1355
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||| ADULT IPTV POV" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||| ADULT IPTV POV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1352
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || ADULT IPTV RUSIA" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || ADULT IPTV RUSIA
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1354
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV THREESOME" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV THREESOME
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1356
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ASTV" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ASTV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1358
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || ADULT IPTV FETISH" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || ADULT IPTV FETISH
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1342
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||Miami Tv XX" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" group-title="││TV││ XXX ", ||PORN ||Miami Tv XX
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1568
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||PutaLocura" tvg-logo="http://vaktar.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="││TV││ XXX ", ||PORN ||PutaLocura
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/80742
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||SexMex" tvg-logo="https://i.blogs.es/46459a/sexmex_logo/450_1000.png" group-title="││TV││ XXX ", ||PORN ||SexMex
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/80743
-#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||Mia Khalifa" tvg-logo="https://cpng.pikpng.com/pngl/s/130-1304533_mia-khalifa-black-dress-mia-khalifa-png-png.png" group-title="││TV││ XXX ", ||PORN ||Mia Khalifa
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/80744
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Kiittenymph HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Kiittenymph HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227318
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Kittenindian HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Kittenindian HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227320
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Laly Vallade HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Laly Vallade HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227321
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Lana24 HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Lana24 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227322
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Lauren Phippips OF Dredd HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Lauren Phippips OF Dredd HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227323
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Layndare HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Layndare HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227324
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyeFans: Leahgoeswile HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyeFans: Leahgoeswile HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227325
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Lealolly HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Lealolly HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227326
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Lil-Braids HD" tvg-logo="" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Lil-Braids HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227327
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: mackzjoness HD" tvg-logo="" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: mackzjoness HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227337
 
 #EXTINF:-1 tvg-id="" tvg-name="24H FHD" tvg-logo="" group-title="││TV││ TDT ESPAÑA",24H FHD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233179
@@ -1970,8 +1279,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/63
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/65
 #EXTINF:-1 tvg-id="" tvg-name="││CINE SD││TNT SERIES" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="││TV││ CINE LATINO SD",││CINE SD││TNT SERIES
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/64
-#EXTINF:-1 tvg-id="" tvg-name=" ││NOTICIA SD││ CANAL U UNICABLE" tvg-logo="https://static.epg.best/mx/Unicable.mx.png" group-title="││TV││ NOTICIAS", ││NOTICIA SD││ CANAL U UNICABLE
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/66
+
 #EXTINF:-1 tvg-id="" tvg-name="││CINE HD││UNIVERSAL CHANNEL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="││TV││ CINE LATINO HD",││CINE HD││UNIVERSAL CHANNEL
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/67
 #EXTINF:-1 tvg-id="" tvg-name="││CINE SD││ DE PELICULA PLUS" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="││TV││ CINE LATINO SD",││CINE SD││ DE PELICULA PLUS
@@ -1992,8 +1300,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/82
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/89
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS SD││ DISNEY JR" tvg-logo="https://static.epg.best/se/DisneyJunior.se.png" group-title="││TV││ INFANTILES",││KIDS SD││ DISNEY JR
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/90
-#EXTINF:-1 tvg-id="" tvg-name="││NOTICIA│ UNIVISION" tvg-logo="https://static.epg.best/us/UnivisionEast.us.png" group-title="││TV││ NOTICIAS",││NOTICIA│ UNIVISION
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/95
+
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS SD││ DISNEY CHANNEL" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="││TV││ INFANTILES",││KIDS SD││ DISNEY CHANNEL
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/100
 #EXTINF:-1 tvg-id="" tvg-name="││CINE SD││ CINELATINO" tvg-logo="https://static.epg.best/mx/CineLatino.mx.png" group-title="││TV││ CINE LATINO SD",││CINE SD││ CINELATINO
@@ -2134,11 +1441,15 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/84027
 
 #EXTINF:-1 tvg-id="" tvg-name="DINEY PIXAR HD" tvg-logo="https://m.media-amazon.com/images/I/51JtCYt9TzL._AC_SY780_.jpg" group-title="││TV││ INFANTILES",DINEY PIXAR HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/121295
-#EXTINF:-1 tvg-id="" tvg-name="││CINESD│N│ SYFY" tvg-logo="https://static.epg.best/de/Syfy.de.png" group-title="││TV││ CINE LATINO SD",││CINESD│N│ SYFY
+#EXTINF:-1 tvg-id="" tvg-name="││CINESD│N│ SYFY" tvg-logo="https://static.epg.best/de/Syfy.de.png" group-title="││TV││ CINE LATINO SD",││CINES │N│ SYFY
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/355
 
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV HD (ES)" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="││TV││ ESPAÑA ",MUNDOTORO TV HD (ES)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/213774
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││LATIN US││ UNIVISION  41 NEW YORK" tvg-logo="https://static.epg.best/us/UnivisionEast.us.png" group-title="││TV││ UNIVISION",││LATIN US││ UNIVISION  41 NEW YORK
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1297
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION USA" tvg-logo="https://static.epg.best/us/UnivisionEast.us.png" group-title="││TV││ UNIVISION",UNIVISION USA
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/218334
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION LOS ANGELES" tvg-logo="http://fanc.tmsimg.com/assets/s11118_h3_aa.png" group-title="││TV││ UNIVISION",UNIVISION LOS ANGELES
@@ -2389,8 +1700,11 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/20514
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/20515
 #EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ FXM" tvg-logo="https://static.epg.best/ar/FXMovies.ar.png" group-title="││TV││ CINE LATINO FHD",││CINE FHD││ FXM
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/20516
+
+
 #EXTINF:-1 tvg-id="" tvg-name=" ││PAN││CABLE ONDA SPORTS [HD]" tvg-logo="https://www.cableonda.com/sites/default/files/styles/thumbnail/public/canales-tax/logo-cos2015-guia.png?itok=2MecX3Im" group-title="││TV││⛹️ DEPORTE PANAMA ⛹️", ││PAN││CABLE ONDA SPORTS [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/26152
+
 #EXTINF:-1 tvg-id="" tvg-name="FRANCIA : AMAZON PRIME VIDEO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/1200px-Amazon_Prime_Logo.svg.png" group-title="││  ⛹️ LA LIGUE 1   ⛹️││",FRANCIA : AMAZON PRIME VIDEO 2 HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/26631
 #EXTINF:-1 tvg-id="" tvg-name="FRANCIA AMAZON PRIME VIDEO 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/1200px-Amazon_Prime_Logo.svg.png" group-title="││  ⛹️ LA LIGUE 1   ⛹️││",FRANCIA AMAZON PRIME VIDEO 8 HD
@@ -2409,6 +1723,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/26638
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/26639
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS OPC1 [HD] (N)" tvg-logo="https://insiderlatam.com/wp-content/uploads/2020/09/tyc-sports.jpg" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS OPC1 [HD] (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/26868
+
 #EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT││ (OPC) [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ DEPORTE PARAGUAY ⛹️",││TIGO SPORT││ (OPC) [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/27796
 #EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT +││ (OPC)  [HD] " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT +││ (OPC)  [HD] 
@@ -2698,12 +2013,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220261
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220262
 #EXTINF:-1 tvg-id="" tvg-name="|US| NBA HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| NBA HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220263
-#EXTINF:-1 tvg-id="" tvg-name="|US| GOLF CHANNEL HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| GOLF CHANNEL HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220264
-#EXTINF:-1 tvg-id="" tvg-name="|US| WWE NETWORK  FHD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| WWE NETWORK  FHD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220265
-#EXTINF:-1 tvg-id="" tvg-name="|US| WWE NETWORK  HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| WWE NETWORK  HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220266
+
 #EXTINF:-1 tvg-id="" tvg-name="|US| FIGHT NETWORK  HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| FIGHT NETWORK  HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220268
 #EXTINF:-1 tvg-id="" tvg-name="|US| MSG HD" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| MSG HD
@@ -2890,6 +2200,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220358
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220359
 #EXTINF:-1 tvg-id="" tvg-name="|US| PAC-12 WASHINGTON" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| PAC-12 WASHINGTON
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220360
+
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ BEIN-SPORT ✦●✦" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",✦●✦ BEIN-SPORT ✦●✦
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220361
 #EXTINF:-1 tvg-id="" tvg-name="|US| (SP) BEIN SPORTS LALIGA" tvg-logo="" group-title="││TV││USA| SPORTS⛹️",|US| (SP) BEIN SPORTS LALIGA
@@ -2989,6 +2300,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220919
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220920
 #EXTINF:-1 tvg-id="" tvg-name="PPV 10 | EVENT" tvg-logo="" group-title="││TV││PPV ON DEMAND",PPV 10 | EVENT
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/220921
+
 #EXTINF:-1 tvg-id="" tvg-name="ESPN│SPORTS USA" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Symbol.png" group-title="││TV││USA| SPORTS⛹️",ESPN│SPORTS USA
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/222395
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2│SPORTS USA" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/ESPN-Symbol.png" group-title="││TV││USA| SPORTS⛹️",ESPN 2│SPORTS USA
@@ -3158,6 +2470,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233761
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233762
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA 4 HD 720P
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233763
+
 #EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",LIGA CAMPEONES 4K
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233764
 #EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES FHD ENCODER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",LIGA CAMPEONES FHD ENCODER
@@ -3182,36 +2495,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233773
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233774
 #EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="││⛹️LIGA DE CAMPEONES DE LA UEFA⛹️││",LIGA CAMPEONES 8
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233776
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 1
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233777
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 2
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233778
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 3
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233779
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 4
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233780
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 5
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233781
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 6
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233782
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 7
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233783
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 8
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233784
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 9
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233785
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 10
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233786
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 11
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233787
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 12
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233788
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 13
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233789
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 14
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233790
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="││TV││ PRIMERA FEDERACION ℗",FEF TV 15
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233791
+
 #EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION FHD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233794
 #EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION 3 FHD
@@ -3226,6 +2510,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233798
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233799
 #EXTINF:-1 tvg-id="" tvg-name="HYPERMOTION 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="││TV││℗LIGA HYPERMOTION",HYPERMOTION 3 HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/233800
+
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS MLS  ⭐ FHD" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-black-and-white.png" group-title="││TV││ ⛹️ APPLE TV /MLS ⛹️",EVENTOS MLS  ⭐ FHD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/234840
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS MLS  ⭐ HD" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-black-and-white.png" group-title="││TV││ ⛹️ APPLE TV /MLS ⛹️",EVENTOS MLS  ⭐ HD
@@ -3344,142 +2629,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244126
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244127
 #EXTINF:-1 tvg-id="" tvg-name="NFL REPLAY # 15 HD" tvg-logo="" group-title="││TV││ PPV NFL",NFL REPLAY # 15 HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244128
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 00ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 00ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244129
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 01ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 01ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244130
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 02ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 02ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244131
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 03ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 03ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244132
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 04ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 04ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244133
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 05ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 05ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244134
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 06ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 06ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244135
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 07ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 07ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244136
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 08ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 08ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244137
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 09ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 09ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244138
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 10ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 10ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244139
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 11ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 11ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244140
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 12ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 12ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244141
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 13ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 13ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244142
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 14ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 14ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244143
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 15ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 15ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244144
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 16ⓧ: No Scheduled Event" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 16ⓧ: No Scheduled Event
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244145
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL 17ⓧ: No Scheduled Event" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL 17ⓧ: No Scheduled Event
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244146
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 00ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 00ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244147
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 01ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 01ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244148
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 02ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 02ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244149
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 03ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 03ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244150
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 04ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 04ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244151
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 05ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 05ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244152
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 06ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 06ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244153
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 07ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 07ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244154
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 08ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 08ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244155
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 09ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 09ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244156
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 10ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 10ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244157
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 11ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 11ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244158
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 12ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 12ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244159
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 13ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 13ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244160
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 14ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 14ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244161
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Game 15ⓧ:" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Game 15ⓧ:
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244162
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Arizona Cardinals" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Arizona Cardinals
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244163
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Atlanta Falcons" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Atlanta Falcons
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244164
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Baltimore Ravens" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Baltimore Ravens
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244165
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Buffalo Bills" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Buffalo Bills
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244166
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Carolina Panthers" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Carolina Panthers
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244167
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Chicago Bears" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Chicago Bears
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244168
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Cincinnati Bengals" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Cincinnati Bengals
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244169
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Cleveland Browns" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Cleveland Browns
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244170
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Dallas Cowboys" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Dallas Cowboys
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244171
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Denver Broncos" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Denver Broncos
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244172
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Detroit Lions" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Detroit Lions
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244173
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Green Bay Packers" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Green Bay Packers
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244174
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Houston Texans" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Houston Texans
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244175
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Indianapolis Colts" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Indianapolis Colts
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244176
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Jacksonville Jaguars" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Jacksonville Jaguars
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244177
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Kansas City Chiefs" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Kansas City Chiefs
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244178
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Las Vegas Raiders" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Las Vegas Raiders
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244179
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Los Angeles Chargers" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Los Angeles Chargers
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244180
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Los Angeles Rams" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Los Angeles Rams
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244181
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Miami Dolphins" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Miami Dolphins
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244182
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Minnesota Vikings" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Minnesota Vikings
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244183
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | New England Patriots" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | New England Patriots
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244184
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | New Orleans Saints" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | New Orleans Saints
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244185
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | New York Giants" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | New York Giants
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244186
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | New York Jets" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | New York Jets
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244187
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Philadelphia Eagles" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Philadelphia Eagles
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244188
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Pittsburgh Steelers" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Pittsburgh Steelers
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244189
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | San Francisco 49ers" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | San Francisco 49ers
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244190
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Seattle Seahawks" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Seattle Seahawks
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244191
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Tampa Bay Buccaneers" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Tampa Bay Buccaneers
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244192
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Tennessee Titans" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Tennessee Titans
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244193
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL | Washington Commanders" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL | Washington Commanders
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244194
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Monday NFL Pass" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Monday NFL Pass
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244195
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Draftkings 24/7  HD OFFLINE" tvg-logo="" group-title="││TV││ PPV NFL",USA | NFL Draftkings 24/7  HD OFFLINE
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244196
+
 #EXTINF:-1 tvg-id="" tvg-name="PPV: EVENTOS 1" tvg-logo="" group-title="⚽││EVENTOS GENERALES ││⚽ ",PPV: EVENTOS 1
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244373
 #EXTINF:-1 tvg-id="" tvg-name="ZAPING SPORTS ECUADOR" tvg-logo="" group-title="ZAPPING LATINOAMERICA",ZAPING SPORTS ECUADOR
@@ -3524,14 +2674,9 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245412
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245415
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="││TV││ COLOMBIA (LOCAL)",CO | RCN SD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245416
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN HD" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="││TV││ COLOMBIA (LOCAL)",CO | RCN HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245419
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="││TV││ COLOMBIA (LOCAL)",RCN
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245421
-#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8_VEU7e_D-aesjc7VkgfSCdW6UF59YdDM8CcwfmQ=s900-c-k-c0x00ffffff-no-rj" group-title="││TV││ COLOMBIA (LOCAL)",RCN Novelas
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245423
-#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="https://i.postimg.cc/tJ0H6y48/Captura-de-pantalla-2019-10-23-a-las-10-04-48-removebg-preview.png" group-title="ZAPPING LATINOAMERICA",CHILEVISION
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245502
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245569
 #EXTINF:-1 tvg-id="" tvg-name="08- EUROSPORT 1" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="││TV││ ⛹️ DEPORTES ESPAÑA ⛹️",08- EUROSPORT 1
@@ -3542,50 +2687,7 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/5734
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/5735
 #EXTINF:-1 tvg-id="" tvg-name="││EC││ECDF HD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="││TV││⛹️  DEPORTE ECUADOR ⛹️",││EC││ECDF HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/25912
-#EXTINF:-1 tvg-id="" tvg-name="Tv Copan - Canal 9" tvg-logo="https://play-lh.googleusercontent.com/hMKXwIZ0TjR4YAvYJeJ1KDwsbizhvEgbIH3-8g2rqsb-XqxxgP6kfgzPP5szcCnSAxvb" group-title="││TV││HONDURAS ",Tv Copan - Canal 9
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245636
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 TSI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/480px-TSi_logo.png" group-title="││TV││HONDURAS ",Canal 3 TSI
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245637
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Televicentro_HN_logo_2020.png/245px-Televicentro_HN_logo_2020.png" group-title="││TV││HONDURAS ",Canal 5
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245638
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Televicentro_HN_logo_2020.png/245px-Televicentro_HN_logo_2020.png" group-title="││TV││HONDURAS ",Canal 5 HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245639
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Canal6.jpg" group-title="││TV││HONDURAS ",Canal 6
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245640
-#EXTINF:-1 tvg-id="" tvg-name="Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/495px-VTV_HN_logo_2019.png" group-title="││TV││HONDURAS ",Vica TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245641
-#EXTINF:-1 tvg-id="" tvg-name="TEN Canal 10" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="││TV││HONDURAS ",TEN Canal 10
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245642
-#EXTINF:-1 tvg-id="" tvg-name="Une TV" tvg-logo="https://i.ytimg.com/vi/GFddo1ejBjk/hqdefault.jpg" group-title="││TV││HONDURAS ",Une TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245643
-#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/HCH.png" group-title="││TV││HONDURAS ",HCH
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245644
-#EXTINF:-1 tvg-id="" tvg-name="TeleProgreso" tvg-logo="http://totalplay.site:80/images/ctOySV0t2TbVX1bvAM_f8Hiqd5_VXtC3j6EFWB5jG41EK_C3iO3AgTtI95LNS98vyUC1_HJ_9lAyXabXuivZ2fb2gQ-RDlb4dfUQ-PBvDrCs7fDd3ojcZarQltBPOV90.jpg" group-title="││TV││HONDURAS ",TeleProgreso
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245652
-#EXTINF:-1 tvg-id="" tvg-name="CHTV" tvg-logo="https://secureservercdn.net/198.71.233.68/sgo.7ac.myftpupload.com/wp-content/uploads/2020/01/512-1.png" group-title="││TV││HONDURAS ",CHTV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245654
-#EXTINF:-1 tvg-id="" tvg-name="Ebenezer TV" tvg-logo="https://i.imgur.com/ANW1pIH.png" group-title="││TV││HONDURAS ",Ebenezer TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245656
-#EXTINF:-1 tvg-id="" tvg-name="LTV Honduras" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2021/01/logo-ltv-top.png" group-title="││TV││HONDURAS ",LTV Honduras
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245659
-#EXTINF:-1 tvg-id="" tvg-name="HN | TELECEIBA HD" tvg-logo="https://i.postimg.cc/1XGb8XxJ/2a70705ddc07e03607a83aa87cc440a2-removebg-preview.png" group-title="││TV││HONDURAS ",HN | TELECEIBA HD
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245661
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/MegaTVHN2010-HD.png/revision/latest/scale-to-width-down/250?cb=20210429192907&path-prefix=es" group-title="││TV││HONDURAS ",MEGA TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245662
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 30 TVO" tvg-logo="http://127.0.0.1/" group-title="││TV││HONDURAS ",CANAL 30 TVO
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245663
-#EXTINF:-1 tvg-id="" tvg-name="Girasol TV" tvg-logo="https://girasolradiotvhn.com/wp-content/uploads/2020/10/canal-girasoltv-logo.png" group-title="││TV││HONDURAS ",Girasol TV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245664
-#EXTINF:-1 tvg-id="" tvg-name="SITV" tvg-logo="https://www.sitvhn.com/img/siTVlogo.png" group-title="││TV││HONDURAS ",SITV
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245665
-#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC Opc 2" tvg-logo="http://127.0.0.1/" group-title="││TV││HONDURAS ",Deportes TVC Opc 2
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245667
-#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC Opc 1" tvg-logo="http://127.0.0.1/" group-title="││TV││HONDURAS ",Deportes TVC Opc 1
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245668
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 TSI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TSi_logo.png/480px-TSi_logo.png" group-title="││TV││HONDURAS ",Canal 3 TSI
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245669
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Televicentro_HN_logo_2020.png/245px-Televicentro_HN_logo_2020.png" group-title="││TV││HONDURAS ",Canal 5
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245670
+
 #EXTINF:-1 tvg-id="" tvg-name="WIN  (SAT) + FHD" tvg-logo="" group-title="││⛹️WIN SPORTS PREMIUM⛹️││",WIN  (SAT) + FHD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/245671
 #EXTINF:-1 tvg-id="" tvg-name="ECU: ZAPPING SPORTS HD" tvg-logo="https://t2.tudocdn.net/688225?w=1920&h=1080" group-title="││TV││⛹️  DEPORTE ECUADOR ⛹️",ECU: ZAPPING SPORTS HD
@@ -3779,12 +2881,109 @@ http://tvgusplay.info:8080/series/pandconv3/HTVFuZ5PePNG/210378.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Silo S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg" group-title="APPLE TV+",Silo S01 E10
 http://tvgusplay.info:8080/series/pandconv3/HTVFuZ5PePNG/214399.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || XXX BIAGASS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || XXX BIAGASS
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1326
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||PENTHOUSE QUICKIES" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||PENTHOUSE QUICKIES
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1311
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || XY PLUS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || XY PLUS
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1312
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || DORCEL" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || DORCEL
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1313
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || XXL (18+)" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || XXL (18+)
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1316
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || PENTHOUSE GOLD" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || PENTHOUSE GOLD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1317
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||SEX ATION" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||SEX ATION
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1319
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || Russian Night" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || Russian Night
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1320
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||BLUE HUSTLER" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||BLUE HUSTLER
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1321
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || CENT & CENTO" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || CENT & CENTO
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1322
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || PRIVATE TV (18+)" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || PRIVATE TV (18+)
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1323
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||PLAYBOY TV (N)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/playboy_tv_lam.png" group-title="││TV││ XXX ", ||PORN ||PLAYBOY TV (N)
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1325
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || HUSTLER (18+)" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || HUSTLER (18+)
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1324
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||SUPER ON" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||SUPER ON
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1328
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || VENUS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || VENUS
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1327
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||BABE STATION 24" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||BABE STATION 24
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1329
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || VISIT X TV" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || VISIT X TV
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1330
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||VISIT X TV HD" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||VISIT X TV HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1331
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||JASMIN TV" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||JASMIN TV
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1332
 
-#EXTINF:-1,XXX | Big Ass(Q)
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV BIG ASS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV BIG ASS
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1334
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV BIG DICK" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV BIG DICK
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1335
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV BIG TITS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV BIG TITS
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1336
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV CUCKOLD" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV CUCKOLD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1341
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV GANGBAND" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV GANGBAND
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1343
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || ADULT IPTV INTERRACIAL" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || ADULT IPTV INTERRACIAL
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1346
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || ADULT IPTV MILF" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || ADULT IPTV MILF
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1350
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV ROUGH" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV ROUGH
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1353
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV TEEN" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV TEEN
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1355
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||| ADULT IPTV POV" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||| ADULT IPTV POV
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1352
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || ADULT IPTV RUSIA" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || ADULT IPTV RUSIA
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1354
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV THREESOME" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ADULT IPTV THREESOME
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1356
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ASTV" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN ||ASTV
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1358
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN || ADULT IPTV FETISH" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || ADULT IPTV FETISH
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1342
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||Miami Tv XX" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" group-title="││TV││ XXX ", ||PORN ||Miami Tv XX
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/1568
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||PutaLocura" tvg-logo="http://vaktar.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="││TV││ XXX ", ||PORN ||PutaLocura
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/80742
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||SexMex" tvg-logo="https://i.blogs.es/46459a/sexmex_logo/450_1000.png" group-title="││TV││ XXX ", ||PORN ||SexMex
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/80743
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||Mia Khalifa" tvg-logo="https://cpng.pikpng.com/pngl/s/130-1304533_mia-khalifa-black-dress-mia-khalifa-png-png.png" group-title="││TV││ XXX ", ||PORN ||Mia Khalifa
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/80744
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Kiittenymph HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Kiittenymph HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227318
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Kittenindian HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Kittenindian HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227320
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Laly Vallade HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Laly Vallade HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227321
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Lana24 HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Lana24 HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227322
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Lauren Phippips OF Dredd HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Lauren Phippips OF Dredd HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227323
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Layndare HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Layndare HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227324
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyeFans: Leahgoeswile HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyeFans: Leahgoeswile HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227325
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Lealolly HD" tvg-logo="http://swedtv.vip/logos/onlyadult.png" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Lealolly HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227326
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: Lil-Braids HD" tvg-logo="" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: Lil-Braids HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227327
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OnlyFans: mackzjoness HD" tvg-logo="" group-title="││TV││ ONLYFANS ADULTO",XXX: OnlyFans: mackzjoness HD
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/227337
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV BIG ASS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || Big Ass(Q)
 http://home-playtv.com:8080/Babarbugti/SFFctrgHe7P6/43469
-#EXTINF:-1,XXX | Big Ass HD(Q)
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV BIG ASS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || Big Ass HD(Q)
 http://home-playtv.com:8080/Babarbugti/SFFctrgHe7P6/43470
-#EXTINF:-1,XXX | Blonde(Q)
+#EXTINF:-1 tvg-id="" tvg-name=" ||PORN ||ADULT IPTV BIG ASS" tvg-logo="https://payload.cargocollective.com/1/15/494592/12889118/Sin-ttulo-1_275.png" group-title="││TV││ XXX ", ||PORN || Blonde(Q)
 http://home-playtv.com:8080/Babarbugti/SFFctrgHe7P6/43474
 #EXTINF:-1,XXX | Gangbang(Q)
 http://home-playtv.com:8080/Babarbugti/SFFctrgHe7P6/43488
