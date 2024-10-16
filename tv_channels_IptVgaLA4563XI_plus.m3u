@@ -37,10 +37,6 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/152
 #EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY HOME&HEALTH (N)" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY HOME&HEALTH (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/153
 
-#EXTINF:-1 tvg-id="I181.97928.schedulesdirect.org" tvg-name="DISCOVERY_HOME_HEALTH_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="",DISCOVERY_HOME_HEALTH_HD_MX
-http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/181515
-
-
 #EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY SCIENCE
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/155
 #EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY THEATHER (N)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY THEATHER (N)
@@ -66,7 +62,6 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/165
 #EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  NATIONAL GEOGRAPHIC
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/166
 
-
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="││TV││ INFANTILES",││KIDS HD││INFANTIL BABY TV HD
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/167
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",││KIDS HD││ CARTOONITO
@@ -90,10 +85,8 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/176
 #EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD  (N)" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR HD  (N)
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/177
 
-
 #EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  MÉXICO  ▆ ▅ ▄ ▂" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1280px-Flag_of_Mexico.svg.png" group-title="││TV││ MEXICO",▂ ▄ ▅ ▆  MÉXICO  ▆ ▅ ▄ ▂
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/244416
-
 #EXTINF:-1 tvg-id="" tvg-name="││MX││ADN 40  [HD]" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="││TV││ MEXICO",││MX││ADN 40  [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/211
 #EXTINF:-1 tvg-id="" tvg-name="││CHL││ CANAL ONCE OPCION 2  [HD]" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="││TV││ MEXICO",││CHL││ CANAL ONCE OPCION 2  [HD]
@@ -102,10 +95,8 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/212
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/213
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││ FORO TV [HD]" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="││TV││ MEXICO", ││MX││ FORO TV [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/214
-
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS [HD1]" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS [HD1]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/267
-
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││ CANAL 5 HQ" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="││TV││ MEXICO", ││MX││ CANAL 5 HQ
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/270
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││ AZTECA 7 [HD]" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="││TV││ MEXICO", ││MX││ AZTECA 7 [HD]
@@ -266,7 +257,6 @@ http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/509
 
 #EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT││ (GUA)  [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT││ (GUA)  [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/620
-
 
 #EXTINF:-1 tvg-id="" tvg-name=" ││MX││UNICABLE  [HD]" tvg-logo="https://static.epg.best/mx/Unicable.mx.png" group-title="││TV││ MEXICO", ││MX││UNICABLE  [HD]
 http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/534
