@@ -7,7 +7,7 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.ts
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN" tvg-logo="https://www.sopitas.com/wp-content/uploads/2022/07/precio-lanzamiento-vix-plus.jpg" group-title="→ EVENTOS FÚTBOL ←",ᴸᴵᴳᴬ ᴹˣ | TUDN HD (OP2)
-http://31.43.191.125:8080/VIP016141756647899609/0bf61f51acf7/5097
+http://daleplaytv.vip:80//live/123MMM/654321/314974.ts
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN" tvg-logo="https://www.sopitas.com/wp-content/uploads/2022/07/precio-lanzamiento-vix-plus.jpg" group-title="→ EVENTOS FÚTBOL ←",ᴸᴵᴳᴬ ᴹˣ | TUDN (OP3)
 http://daleplaytv.vip:80//live/123MMM/654321/314974.ts
@@ -43,7 +43,7 @@ http://45.228.234.30:16000/play/a034/index.m3u8
 http://31.43.191.125:8080/VIP016141756647899609/0bf61f51acf7/5084
 
 #EXTINF:-1 tvg-id="XHIMT" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest/scale-to-width-down/250?cb=20180716012938&path-prefix=es" group-title="→ EVENTOS FÚTBOL ←",MX | Azteca 7 (México) (OP2)
-http://31.43.191.125:8080/VIP016141756647899609/0bf61f51acf7/5117
+http://myultratv.com:8080/982491294tv/d92h23j6f/59596
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="→ EVENTOS FÚTBOL ←",DEP | ESPN HD (OP1)
 http://186.33.40.97:8789/play/20
@@ -68,6 +68,12 @@ http://186.33.40.97:8789/play/56
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-name="DEP | ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="→ EVENTOS FÚTBOL ←",DEP | ESPN PREMIUM HD
 http://186.33.40.97:8789/play/22
+
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="DEP | FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fox_Sports_logo.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="→ EVENTOS FÚTBOL ←",DEP | Fox Deportes ARG
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="DEP | FOX Sports 2" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/3840px-Fox_sports_2_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="→ EVENTOS FÚTBOL ←",DEP | FOX Sports 2 [2]
+http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="UNIVERSO" tvg-name="DEP | UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" group-title="→ EVENTOS FÚTBOL ←",ᴸᴵᴳᴬ ᴹˣ || UNIVERSO
@@ -231,11 +237,11 @@ http://myultratv.com:8080/982491294tv/d92h23j6f/59500
 #EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 5+ OP2" tvg-logo="http://redworld.pro:8880/images/7c5f138da031d6efef359be7ce395d48.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | CANAL 5+ OP2
 http://superxlatino.com:8880/juan1608/EuV3EcwzHXch/534770
 
-#EXTINF:-1 tvg-id="XHGC" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/800px-Canal_5_2016.svg.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX || Canal 5 HD (OP2)
-
-
 #EXTINF:-1 tvg-id="XHIMT" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest/scale-to-width-down/250?cb=20180716012938&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca 7 HD (OP1)⭐
 http://190.61.101.11:7050/play/a09b/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="" tvg-name="MX || Azteca 7 HD Opc 1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX || Azteca 7 HD Opc 1
+http://myultratv.com:8080/982491294tv/d92h23j6f/59585
 
 #EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 OP1" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | AZTECA 7 OP2
 http://superxlatino.com:8880/juan1608/EuV3EcwzHXch/534772
@@ -244,7 +250,7 @@ http://superxlatino.com:8880/juan1608/EuV3EcwzHXch/534772
 http://45.228.234.30:16000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="XHIMT" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/2/2e/Siete_logo.png/revision/latest?cb=20200324020344&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca 7 HD (OP2)⭐⭐
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://myultratv.com:8080/982491294tv/d92h23j6f/59596
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest/scale-to-width-down/250?cb=20180716012938&path-prefix=es" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | Azteca 7 HD (OP3)⭐⭐⭐
 http://myultratv.com:8080/982491294tv/d92h23j6f/24894
@@ -286,7 +292,7 @@ http://myultratv.com:8080/982491294tv/d92h23j6f/59490
 http://myultratv.com:8080/982491294tv/d92h23j6f/59595
 
 #EXTINF:-1 tvg-id="CANAL 9" tvg-name="MX | CANAL 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYWlQVlUV15IE5qjLyf-nKXfQSjiSqv7v4mEjGzUiJ0cr0XIDDDhxwNULFhNpDi7OPPlE&usqp=CAU" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | NU9VE (OP2)⭐⭐
-
+http://myultratv.com:8080/982491294tv/d92h23j6f/59595
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="ENT | MTV en español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvUIUQJfxs9cRCBkIe8m4KDBzRV5nuiMKpA&s" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",ENT | MTV en español
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
@@ -301,7 +307,7 @@ https://1nyaler.streamhostingcdn.top/stream/83/index.m3u8
 http://elpapanatas.space:8080/SamuelChavez/9twPvGj8kvgR/995
 
 #EXTINF:-1 tvg-id="UNICABLE" tvg-name="MX | UNICABLE" tvg-logo="https://i.pinimg.com/564x/cf/15/45/cf1545d9c8cdc8bf3d3c23cd51179b9e.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | UNICABLE OP1 ⭐
-http://elpapanatas.space:8080/SamuelChavez/9twPvGj8kvgR/1058
+http://myultratv.com:8080/982491294tv/d92h23j6f/59567
 
 #EXTINF:-1 tvg-id="UNICABLE" tvg-name="MX | UNICABLE" tvg-logo="https://i.pinimg.com/564x/cf/15/45/cf1545d9c8cdc8bf3d3c23cd51179b9e.jpg" group-title="⭐⭐⭐MÉXICO HD⭐⭐⭐",MX | UNICABLE OP2 ⭐⭐
 http://elpapanatas.space:8080/SamuelChavez/9twPvGj8kvgR/1059
@@ -422,10 +428,10 @@ http://45.228.234.30:16000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VIX | TUDN HD" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="LIGA MÉXICO⚽",ᴸᴵᴳᴬ ᴹˣ ",VIX | TUDN3 HD
 http://45.5.117.57:8999/play/a04t/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN" tvg-logo="https://www.sopitas.com/wp-content/uploads/2022/07/precio-lanzamiento-vix-plus.jpg" group-title="→ EVENTOS FÚTBOL ←",ᴸᴵᴳᴬ ᴹˣ | TUDN HD (OP2)
+#EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN" tvg-logo="https://www.sopitas.com/wp-content/uploads/2022/07/precio-lanzamiento-vix-plus.jpg" group-title="LIGA MÉXICO⚽",ᴸᴵᴳᴬ ᴹˣ | TUDN HD (OP2)
 http://31.43.191.125:8080/VIP016141756647899609/0bf61f51acf7/5097
 
-#EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN" tvg-logo="https://www.sopitas.com/wp-content/uploads/2022/07/precio-lanzamiento-vix-plus.jpg" group-title="→ EVENTOS FÚTBOL ←",ᴸᴵᴳᴬ ᴹˣ | TUDN (OP3)
+#EXTINF:-1 tvg-id="TUDN" tvg-name="DEP | TUDN" tvg-logo="https://www.sopitas.com/wp-content/uploads/2022/07/precio-lanzamiento-vix-plus.jpg" group-title="LIGA MÉXICO⚽",ᴸᴵᴳᴬ ᴹˣ | TUDN (OP3)
 http://daleplaytv.vip:80//live/123MMM/654321/314974.ts
 
 
@@ -509,7 +515,7 @@ http://38.188.186.47:4000/play/a00c/index.m3u8
 http://45.228.234.30:16000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" tvg-name="DEP | beIN SPORTS XTRA ñ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/BeIN_Sports_Xtra_en_Espanol.webp/revision/latest?cb=20240923145223" group-title="LIGA MÉXICO⚽",ᴸᴵᴳᴬ ᴹˣ | 
-http://200.59.188.3:8000/play/a0cm
+https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" tvg-name="DEP | beIN SPORTS XTRA ñ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/BeIN_Sports_Xtra_en_Espanol.webp/revision/latest?cb=20240923145223" group-title="LIGA MÉXICO⚽",ᴸᴵᴳᴬ ᴹˣ | beIN SPORTS XTRA ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
@@ -552,17 +558,8 @@ http://45.228.234.30:16000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="SKY SPORTS LA LIGA" tvg-name="DEP | SKY SPORTS LA LIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="ES | LALIGA⚽",ᴸᴬ ᴸᴵᴳᴬ  | SKY SPORTSLA LIGA (Opcion 3)
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA⚽",ES: (HD) M+ LALIGA
-http://norqhwkyfzw.top:8080/3951740321970692/3301fed89ec2/5758
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA⚽",ES: (HD REPUESTO) M+ LALIGA
-http://norqhwkyfzw.top:8080/3951740321970692/3301fed89ec2/54535
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA⚽",ES: (FHD) M+ LALIGA
-http://norqhwkyfzw.top:8080/3951740321970692/3301fed89ec2/54532
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA⚽",ES: (FHD REPUESTO) M+ LALIGA
-http://norqhwkyfzw.top:8080/3951740321970692/3301fed89ec2/57362
-
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA⚽",ES: VAMOS POR M+ CH9
-http://norqhwkyfzw.top:8080/3951740321970692/3301fed89ec2/58321
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA⚽",M+ LA LIGA HD
+http://myultratv.com:8080/982491294tv/d92h23j6f/60237
 
 
 
@@ -577,6 +574,9 @@ http://tv.diablotv.net:8080/Olga-Gonzales/hHkbBWLGWJ/9817
 
 #EXTINF:-1 tvg-id="Discovery Familia" tvg-name="CUL | Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Discovery_Familia_2007-2010.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery Familia HD
 http://tv.diablotv.net:8080/Olga-Gonzales/hHkbBWLGWJ/9783
+
+#EXTINF:-1 tvg-id="" tvg-name="CUL | Discovery 4K" tvg-logo="https://i.postimg.cc/D05SXBQY/DCHA4K.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | DISCOVERY CHANNEL LAT
+http://myultratv.com:8080/982491294tv/d92h23j6f/59530
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL | Discovery 4K" tvg-logo="https://i.postimg.cc/D05SXBQY/DCHA4K.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | DISCOVERY CHANNEL LATINOAMERICA HD
 http://181.78.8.199:8000/play/a0c4/index.m3u8
@@ -593,6 +593,9 @@ http://187.102.208.209:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX || Discovery Channel HD | Cultural" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX || Discovery Channel HD | Cultural
 http://myultratv.com:8080/982491294tv/d92h23j6f/59440
 
+#EXTINF:-1 tvg-id="" tvg-name="MX || Discovery H&H HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX || Discovery H&H HD
+http://myultratv.com:8080/982491294tv/d92h23j6f/59529
+
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-name="CUL | Discovery H&H" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | DISCOVERY H&H ᴴᴰ
 http://181.78.8.199:8000/play/a071/index.m3u8
 
@@ -605,6 +608,9 @@ http://187.102.208.209:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-name="CUL | Discovery H&H" tvg-logo="http://offshore.lat:25461/images/cb10af03728871ce74872412844dfd1e.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MyC - DISCOVERY HOME & HEALTH ᴴᴰ @
 http://myultratv.com:8080/982491294tv/d92h23j6f/59439
 
+#EXTINF:-1 tvg-id="" tvg-name="MX || Discovery World HD | Cultural" tvg-logo="https://pbs.twimg.com/profile_images/746351117177479168/MkxvzVVF_400x400.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX || Discovery World HD | Cultural
+http://myultratv.com:8080/982491294tv/d92h23j6f/59531
+
 #EXTINF:-1 tvg-id="discoveryworldhd.ar" tvg-name="CUL | DISCOVERY World 4K" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/ec/Discovery_hd_world_%28small_globe%29.png/revision/latest?cb=20180603154729" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | DISCOVERY WORLD HD
 http://187.102.208.209:8000/play/a09d/index.m3u8
 
@@ -615,6 +621,9 @@ http://190.60.32.178:8178/play/a0k8/index.m3u8
 http://elpapanatas.space:8080/SamuelChavez/9twPvGj8kvgR/58229
 http://myultratv.com:8080/982491294tv/d92h23j6f/59531
 
+#EXTINF:-1 tvg-id="" tvg-name="MX || Discovery Theater HD | Cultural" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX || Discovery Theater HD | Cultural
+http://myultratv.com:8080/982491294tv/d92h23j6f/59533
+
 #EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY THEATER (HD) »1«" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL• DISCOVERY THEATER (HD) »1«
 http://187.102.208.209:8000/play/a04k/index.m3u8
 
@@ -623,6 +632,9 @@ http://myultratv.com:8080/982491294tv/d92h23j6f/59443
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL | * Discovery Theater*" tvg-logo="https://i.postimg.cc/yxYvCpLV/DISTHEA4-K.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐", MXVIP| Discovery Theater
 http://myultratv.com:8080/982491294tv/d92h23j6f/59533
+
+#EXTINF:-1 tvg-id="" tvg-name="MX || HGTV | Cultural" tvg-logo="https://tinyurl.com/y2pkm83w" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX || HGTV | Cultural
+http://myultratv.com:8080/982491294tv/d92h23j6f/59435
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="CUL | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",HGTV HD
 http://myultratv.com:8080/982491294tv/d92h23j6f/59525
@@ -657,6 +669,8 @@ http://181.78.8.199:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery ID" tvg-name="CUL | Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Discovery ID SD
 
+#EXTINF:-1 tvg-id="" tvg-name="MX || National Geographic HD | Cultural" tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",MX || National Geographic HD | Cultural
+http://myultratv.com:8080/982491294tv/d92h23j6f/59528
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL | NAT GEO (HD)" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | Nat Geo HD
 http://190.60.32.178:8178/play/a0hq/index.m3u8
@@ -707,16 +721,16 @@ http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/5
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP || TNT Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX || TNT Sports 
-http://190.7.19.197:232/play/a037/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP || ESPN Premium " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="⚽ DEPORTES PREMIUM ⚽ HD",MX || ESPN Premium
-http://190.7.19.197:232/play/a038/index.m3u8
+http://186.33.40.97:8789/play/22
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/0Wqdtb7VjWAc4Q==/c01bd1fb-966f-47e7-b382-fbbf9889e620/CHgQeDoFMS4xLjlAAQ==" group-title="⚽ DEPORTES PREMIUM ⚽ HD",FOX (tubi SV)
-https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/aHl8rpkmcY7D4g==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjlAAQ==" group-title="⚽ DEPORTES PREMIUM ⚽ HD",Fox en tubi Xtra (NO 24/7)
-https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
+
 
 #EXTINF:-1 group-title="⚽ DEPORTES PREMIUM ⚽ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox Sports en Espanol (TUBI)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
@@ -3197,6 +3211,3 @@ http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_dev
 http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_juliekay111214/content/vid01.mp4
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="star XXXTiny",EXOTIC 4K 9
 http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_cassidybanks112114/content/vid01.mp4
-
-
-
